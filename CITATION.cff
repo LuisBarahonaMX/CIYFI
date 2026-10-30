@@ -1,0 +1,26 @@
+﻿cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "CIYFI: Sea Turtle Head Detection as an Initial Stage for Individual Re-identification"
+type: software
+authors:
+  - family-names: "Pérez Barahona"
+    given-names: "Pedro Luis"
+    orcid: ""
+repository-code: "https://github.com/LuisBarahonaMX/CIYFI"
+url: "https://github.com/LuisBarahonaMX/CIYFI"
+license: "Apache-2.0"
+version: "1.0.0"
+date-released: "2026-10-30"
+abstract: >
+  CIYFI is a computer vision project focused on sea turtle head detection
+  as an initial stage toward individual re-identification. The current
+  validated stage uses YOLOv8n for head detection and includes independent
+  evaluation, reproducibility documentation, error analysis, and model artifacts.
+keywords:
+  - sea turtle
+  - computer vision
+  - YOLOv8
+  - wildlife monitoring
+  - re-identification
+  - deep learning
+  - conservation
