@@ -1,0 +1,33 @@
+
+CIYFI - ANALISIS DE ERRORES TEST INDEPENDIENTE 50
+
+Modelo:
+C:\Users\Usuario\Pictures\zproyecto3_0\runs3_0\ciyfi_refuerzo_20261003_231304_294942\entrenamiento\weights\best.pt
+
+Configuracion:
+imgsz = 640
+conf = 0.25
+iou NMS = 0.70
+device = GPU
+criterio TP = IoU >= 0.50
+
+Imagenes = 50
+
+TP = 48
+FP adicionales = 5
+FN = 2
+
+Sin deteccion = 1
+Con varias predicciones = 3
+
+IoU promedio mejor prediccion = 0.8468
+
+IoU < 0.50 = 2
+IoU 0.50-0.75 = 2
+IoU 0.75-0.90 = 26
+IoU >= 0.90 = 20
+
+NOTA:
+Este analisis usa conf=0.25 para revision visual y clasificacion
+de casos. No sustituye las metricas mAP calculadas por
+Ultralytics durante la validacion independiente.

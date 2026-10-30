@@ -1,0 +1,8 @@
+﻿path: C:/Users/Usuario/Pictures/zproyecto3_0/CIYFI_TEST_50_FINAL/dataset_yolo
+
+train: images/test
+val: images/test
+test: images/test
+
+names:
+  0: cabeza_tortuga
