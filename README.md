@@ -1288,3 +1288,14 @@ https://github.com/LuisBarahonaMX
 
 \*\*Detectar correctamente la cabeza es el primer paso para intentar reconocer correctamente al individuo.\*\*
 
+# CIYFI
+
+<p align="center">
+  <img src="examples/assets/ciyfi_pipeline_overview.png"
+       alt="CIYFI sea turtle detection and re-identification pipeline"
+       width="100%">
+</p>
+
+<p align="center">
+  <strong>Sea Turtle Head Detection as an Initial Stage for Individual Re-identification</strong>
+</p>
