@@ -1,0 +1,16 @@
+﻿CIYFI - Detector reforzado
+
+Modelo:
+YOLOv8n
+
+Clase:
+cabeza_tortuga
+
+Archivo:
+best.pt
+
+SHA-256:
+71C02F61F4EB24B36A48213466D9FF1DBD9D50B1FD431C5A708053F3CCAA2ED5
+
+Origen:
+C:\Users\cancu\Pictures\PROYECTO TORTUGAS\zproyecto3_0\runs3_0\ciyfi_refuerzo_20261003_231304_294942\entrenamiento\weights\best.pt

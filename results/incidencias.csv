@@ -1,0 +1,134 @@
+﻿individuo,ruta_relativa,extension,bytes,ancho,alto,modo,formato,fotogramas,sha256,lectura,error,observacion
+individuo 0088,individuo 0088\img01_ind_cm0088.jpg,.jpg,60522,216,301,RGB,JPEG,1,dc3cc5d3a0f945cd22ae5440626d3846a30256aea8bd8f7f03189225fde7f88f,OK,,Lado menor inferior a 224 px
+individuo 0101,individuo 0101\img02_ind_cm0101.jpg,.jpg,60689,223,327,RGB,JPEG,1,ffee0778f1fd26c3aadf9c9b8ca0ad99fdf6c2da754449d60655590324e04516,OK,,Lado menor inferior a 224 px
+individuo 0114,individuo 0114\img02_ind_cm0114.jpg,.jpg,49334,193,273,RGB,JPEG,1,2da3efad1c677d777f48cc3edfcafbdc5de6493711ee7d5cf0ad6ee740a86427,OK,,Lado menor inferior a 224 px
+individuo 0134,individuo 0134\img01_ind_cm0134.jpg,.jpg,43988,176,245,RGB,JPEG,1,fed19d07f8afd55992d74951ef3870b96b2b648bc07f637a63952544a4cbe368,OK,,Lado menor inferior a 224 px
+individuo 0174,individuo 0174\img01_ind_cm0174.jpg,.jpg,998731,,,RGB,MPO,2,cf8951cbef0ac1cc4dff7ad99f18e872fd599293acac6bb0ea9975b9e474272c,ERROR,Imagen: ValueError: No data found for frame,
+individuo 0186,individuo 0186\img03_ind_cm0186.jpg,.jpg,1065888,,,RGB,MPO,2,75b6bc48dc6f561c470c499112fb3341a40acca43840b357924aee62b18f3e07,ERROR,Imagen: ValueError: No data found for frame,
+individuo 0186,individuo 0186\img05_ind_cm0186.jpg,.jpg,6915338,4160,3120,RGB,MPO,2,c86077704646c9c67d1faf551a3de81b0d84ac7639a52b099cba0b135dcf9387,OK,,Archivo con varios fotogramas
+individuo 0206,individuo 0206\img02_ind_cm0206.jpg,.jpg,898092,,,RGB,MPO,2,0a98f3d4a30ef0a4b7aeb1dde9c5bc8abe6ce6484605fbe75d58c26e2da195b0,ERROR,Imagen: ValueError: No data found for frame,
+individuo 0215,individuo 0215\img01_ind_cm0215.jpg,.jpg,56942,220,252,RGB,JPEG,1,e920680b59494311a3f274615db9805dd7c6832e1661b5121f20fe71b961781e,OK,,Lado menor inferior a 224 px
+individuo 0232,individuo 0232\img02_ind_cm0232.jpg,.jpg,1043442,,,RGB,MPO,2,94471ac8b5a6f1e0a6f964c7bc456ad3d05ac58a1ac496da7563da311af2ea41,ERROR,Imagen: ValueError: No data found for frame,
+individuo 0241,individuo 0241\img02_ind_cm0241.jpg,.jpg,50750,212,282,RGB,JPEG,1,62a037562c5c7238203dba8060ed573f3c9b60e443e4e9f8d0e016b01bdd80e4,OK,,Lado menor inferior a 224 px
+individuo 0242,individuo 0242\img03_ind_cm0242.jpg,.jpg,6087228,4160,3120,RGB,MPO,2,5ff3a559319c03039f15bc6f582f44bb8088f9bc22c3b2844fd7b7d613272cda,OK,,Archivo con varios fotogramas
+individuo 0242,individuo 0242\img04_ind_cm0242.jpg,.jpg,6773718,4160,3120,RGB,MPO,2,56553e039a260b5a8c14f924ba1609b0a8b16b3a3cdeb08199846279c387548e,OK,,Archivo con varios fotogramas
+individuo 0252,individuo 0252\img01_ind_cm0252.jpg,.jpg,54243,222,324,RGB,JPEG,1,fdf3e79c7e1b5f5cc32dad2341981197f1b868277ef269580e99dbc8b461ce0d,OK,,Lado menor inferior a 224 px
+individuo 0270,individuo 0270\img01_ind_cm0270.jpg,.jpg,956175,,,RGB,MPO,2,692cf7bedf5dfefefe7db5c9354dd55809d37c90e21462809726d8720dc04242,ERROR,Imagen: ValueError: No data found for frame,
+individuo 0305,individuo 0305\img01_ind_cm0305.jpg,.jpg,6504399,4160,3120,RGB,MPO,2,03313625897f34ba39e57c083624d1f5657f51f17b21fa56ea10f52894b2eff1,OK,,Archivo con varios fotogramas
+individuo 0305,individuo 0305\img02_ind_cm0305.jpg,.jpg,812911,,,RGB,MPO,2,250a2d56e5f95e2a4bae6260f434d0088a094b9f9d1f6fe92fc0262cb00f82f8,ERROR,Imagen: ValueError: No data found for frame,
+individuo 0323,individuo 0323\img01_ind_cm0323.jpg,.jpg,45536,142,208,RGB,JPEG,1,810923f980586e0a2daf542ba084096ec4a1b1b78f9ee026a7dbd0ac85d086fd,OK,,Lado menor inferior a 224 px
+individuo 0410,individuo 0410\img01_ind_cm0410.jpg,.jpg,1562639,,,RGB,MPO,2,5b744a7232f5147fc8223591869fd18f791bbb865f837e21e77f1e51dae5dbfa,ERROR,Imagen: ValueError: No data found for frame,
+individuo 0410,individuo 0410\img02_ind_cm0410.jpg,.jpg,6611718,4160,3120,RGB,MPO,2,e4c11adbced014b3e1aa9fc17fd78c82451289f61c35f41ca82e7f0dce9cf784,OK,,Archivo con varios fotogramas
+individuo 0410,individuo 0410\img03_ind_cm0410.jpg,.jpg,6479914,4160,3120,RGB,MPO,2,5763bca2ea8ec2f0d6733a88519832d42f0a2a1fedef54b85167f44f99c7a073,OK,,Archivo con varios fotogramas
+individuo 0410,individuo 0410\img04_ind_cm0410.jpg,.jpg,6552127,4160,3120,RGB,MPO,2,a696b89f305a061fec832e966e4316ba29b71a9427d5184e203608956539b88b,OK,,Archivo con varios fotogramas
+individuo 0410,individuo 0410\img05_ind_cm0410.jpg,.jpg,6683071,4160,3120,RGB,MPO,2,34e5c27aadd386f645ce7b19239d6fb6a47e05a705bb8fa694c10c9896957405,OK,,Archivo con varios fotogramas
+individuo 0444,individuo 0444\img01_ind_cm0444.jpg,.jpg,6659312,4160,3120,RGB,MPO,2,48346aee85e56a96783c34433bf4044326d0cf98c0f8214a921c44f160a44049,OK,,Archivo con varios fotogramas
+individuo 0444,individuo 0444\img02_ind_cm0444.jpg,.jpg,7100078,4160,3120,RGB,MPO,2,4b3d93014dd72b834a696209abd36ef3af8833227d3f37625cc411798bdb9f0a,OK,,Archivo con varios fotogramas
+individuo 0509,individuo 0509\img02_ind_cm0509.jpg,.jpg,647214,,,RGB,MPO,2,021a5f692045794eb1e334758cd1bd0ad3cb71e2ff1a85aac1d823b967b18f1c,ERROR,Imagen: ValueError: No data found for frame,
+individuo 0509,individuo 0509\img04_ind_cm0509.jpg,.jpg,6154279,4160,3120,RGB,MPO,2,4eadabe9a72307543bc895e4b7e1822e3d714c09e6e19e5180932dbc3368444d,OK,,Archivo con varios fotogramas
+individuo 0509,individuo 0509\img05_ind_cm0509.jpg,.jpg,5095503,4160,3120,RGB,MPO,2,c3ee1ea37432d84a744ee30ab7b5661c3c965baa0efd0fbbe0f97a6672d42688,OK,,Archivo con varios fotogramas
+individuo 0673,individuo 0673\img01_ind_cm0673.jpg,.jpg,64761,214,310,RGB,JPEG,1,ed2a8788840d4fb9c49343b2ef6d2291725e8392863e01e2d2d30906a7acf6e3,OK,,Lado menor inferior a 224 px
+individuo 0712,individuo 0712\img01_ind_cm0712.jpg,.jpg,53986,195,305,RGB,JPEG,1,a27d8f22b7ef309da876584236c2652d71c11b061185b566a806808e659994fb,OK,,Lado menor inferior a 224 px
+individuo 0725,individuo 0725\img01_ind_cm0725.jpg,.jpg,6870042,4160,3120,RGB,MPO,2,9c7f86a2d25de7f6ff5e0c5d1f4695d3b8c98a9b1de39d6c39c6122f4ff744ee,OK,,Archivo con varios fotogramas
+individuo 0725,individuo 0725\img02_ind_cm0725.jpg,.jpg,6811010,4160,3120,RGB,MPO,2,cee524c1422026afc01db244ed806700aec07fe6604f8945258c1ca9630b3a44,OK,,Archivo con varios fotogramas
+individuo 0725,individuo 0725\img03_ind_cm0725.jpg,.jpg,7051445,4160,3120,RGB,MPO,2,e29beedcf2888b8d7c64c83a1402fe47e04972f663beddb2c8b99c589d649ae6,OK,,Archivo con varios fotogramas
+individuo 0732,individuo 0732\img01_ind_cm0732.jpg,.jpg,6115150,4160,3120,RGB,MPO,2,9dff0cbc7d0c37cd1247e98e416468ab4037dee1c9b5e043bf072defc45b4dc6,OK,,Archivo con varios fotogramas
+individuo 0732,individuo 0732\img02_ind_cm0732.jpg,.jpg,6953222,4160,3120,RGB,MPO,2,591092110868c639a7b52f25195529214787d0edfdf0edeebb2fc99204a4a977,OK,,Archivo con varios fotogramas
+individuo 0732,individuo 0732\img03_ind_cm0732.jpg,.jpg,7091533,4160,3120,RGB,MPO,2,c4bea023a9bf607968c32be8e516cb16ed5f21a7e79277b9047cea421716d637,OK,,Archivo con varios fotogramas
+individuo 0732,individuo 0732\img04_ind_cm0732.jpg,.jpg,7052289,,,RGB,MPO,2,6853e648896567df43f8a3b726bc1b1f76d5d8274c3ad0c25b6b4402de3253f2,ERROR,Imagen: SyntaxError: not a JPEG file,
+individuo 0732,individuo 0732\img05_ind_cm0732.jpg,.jpg,6906381,,,RGB,MPO,2,c4de92820b9e1145c1492cc14ab84affd314c58ceb783677e197fefd1b089fc0,ERROR,Imagen: SyntaxError: not a JPEG file,
+individuo 0732,individuo 0732\img07_ind_cm0732.jpg,.jpg,6371827,4160,3120,RGB,MPO,2,08e46b7240cc3a09ea7c07b0451ba80d13bb7b4fc5ee97e02e427536b7c8e535,OK,,Archivo con varios fotogramas
+individuo 0732,individuo 0732\img08_ind_cm0732.jpg,.jpg,6698528,4160,3120,RGB,MPO,2,0f922c1b2c320838c50c6a4ccc2fa34a63092ec71a44cdd12cf1a09fcad8a485,OK,,Archivo con varios fotogramas
+individuo 0733,individuo 0733\img01_ind_cm0733.jpg,.jpg,692580,,,RGB,MPO,2,3e6951727dfdc7b1bd85974b9a358b3eba65b207f79cc28498f4baa1c645433f,ERROR,Imagen: ValueError: No data found for frame,
+individuo 0733,individuo 0733\img02_ind_cm0733.jpg,.jpg,6448066,4160,3120,RGB,MPO,2,196a64325328d788f126ecd1fadee36b28d0dd9ca0d1b2e94b2e711ed1fc252f,OK,,Archivo con varios fotogramas
+individuo 0733,individuo 0733\img03_ind_cm0733.jpg,.jpg,6809719,4160,3120,RGB,MPO,2,6e6f6f14af72d3b9262dc14a3556e369572665bc28dd82129e16ec207a450051,OK,,Archivo con varios fotogramas
+individuo 0733,individuo 0733\img04_ind_cm0733.jpg,.jpg,6605916,4160,3120,RGB,MPO,2,f85bb612b4c4ae04b2d640ef2a2c657e34e72b1e86004720495cf10a5fca16a9,OK,,Archivo con varios fotogramas
+individuo 0733,individuo 0733\img05_ind_cm0733.jpg,.jpg,6726535,4160,3120,RGB,MPO,2,211b90f2907f98c9af620146c241003c330cbca5849b32d03e84a45cdcfe3ea2,OK,,Archivo con varios fotogramas
+individuo 0733,individuo 0733\img06_ind_cm0733.jpg,.jpg,6875181,4160,3120,RGB,MPO,2,85186ed912b76f51d4701417431130a51ea1fb907975df28a09b39b8312433bf,OK,,Archivo con varios fotogramas
+individuo 0735,individuo 0735\img01_ind_cm0735.jpg,.jpg,947878,,,RGB,MPO,2,583107a6d393f149e373532709bb1dfbe904c80167efa4ae5a6134c1e08a36c4,ERROR,Imagen: ValueError: No data found for frame,
+individuo 0735,individuo 0735\img02_ind_cm0735.jpg,.jpg,7212204,4160,3120,RGB,MPO,2,9afd5aebd0467c75ee625f7d351399b90481bd37e2c6c908a7f6c4f630138090,OK,,Archivo con varios fotogramas
+individuo 0735,individuo 0735\img03_ind_cm0735.jpg,.jpg,6767991,4160,3120,RGB,MPO,2,afa309cc2925a5b962842779e1cdd11df7306094106195ca4650d69f44586532,OK,,Archivo con varios fotogramas
+individuo 0735,individuo 0735\img04_ind_cm0735.jpg,.jpg,6926492,4160,3120,RGB,MPO,2,8e201b19cf5e7ac8e5e35fa6c4467bdf20e1ac241f7c6a0f5ddf8cc6a117f097,OK,,Archivo con varios fotogramas
+individuo 0736,individuo 0736\img02_ind_cm0736.jpg,.jpg,6793415,4160,3120,RGB,MPO,2,57c4c593caaaf6660baa92ed59a38a0d8d5ad1ae66c50aad49b610d466d3a1f8,OK,,Archivo con varios fotogramas
+individuo 0736,individuo 0736\img03_ind_cm0736.jpg,.jpg,6818241,4160,3120,RGB,MPO,2,77b2179ab0fa6d74d791880b861f9e8720f5466823241a6841f0e40b5750526c,OK,,Archivo con varios fotogramas
+individuo 0736,individuo 0736\img04_ind_cm0736.jpg,.jpg,6917300,4160,3120,RGB,MPO,2,ebfba5162d726491b8b4e64c35be6a9ac7f7513a7ece432ee0e57c623e67a49f,OK,,Archivo con varios fotogramas
+individuo 0736,individuo 0736\img05_ind_cm0736.jpg,.jpg,6830980,4160,3120,RGB,MPO,2,b855b509d48a413d9a7c7327849fc1aae662ab88974432473d0d43eb9f4e8c39,OK,,Archivo con varios fotogramas
+individuo 0736,individuo 0736\img06_ind_cm0736.jpg,.jpg,6813650,4160,3120,RGB,MPO,2,1422bcd246d4889b909dc6f9f328c72cd6bd3a88dc4462cde9a2d5c106f3ad35,OK,,Archivo con varios fotogramas
+individuo 0736,individuo 0736\img07_ind_cm0736.jpg,.jpg,6694733,4160,3120,RGB,MPO,2,b9ebc0e4eefa6408ee50acc30d3067fe831e804bb05b0d6547ae58ce1a9181f3,OK,,Archivo con varios fotogramas
+individuo 0736,individuo 0736\img08_ind_cm0736.jpg,.jpg,6283785,,,RGB,MPO,2,28f5b2372868588e9150f47ceb3ee5ce3316b75a1e69d09be2aab736db9a29ce,ERROR,Imagen: SyntaxError: not a JPEG file,
+individuo 0736,individuo 0736\img09_ind_cm0736.jpg,.jpg,5825931,,,RGB,MPO,2,4271feb0b03d45735fb08a92a110a0ef83b5e5de7f3c008e8fac6485cfdb75ab,ERROR,Imagen: SyntaxError: not a JPEG file,
+individuo 0738,individuo 0738\img01_ind_cm0738.jpg,.jpg,6037897,4160,3120,RGB,MPO,2,4bce59cdd34659b4665ae14b38b6682aa8a42a7a45f729a905d13866f7f3a629,OK,,Archivo con varios fotogramas
+individuo 0738,individuo 0738\img02_ind_cm0738.jpg,.jpg,6943693,4160,3120,RGB,MPO,2,ed5de775303615cdb3f22bcc415a2a6bd49a4511b8e41eca8834ccd6692a8776,OK,,Archivo con varios fotogramas
+individuo 0738,individuo 0738\img03_ind_cm0738.jpg,.jpg,6971527,4160,3120,RGB,MPO,2,3fdb79cff1b25a5bdab3a8d4e5f80789f3de7df157c3c816ab97e87c07726c0d,OK,,Archivo con varios fotogramas
+individuo 0738,individuo 0738\img04_ind_cm0738.jpg,.jpg,6808398,4160,3120,RGB,MPO,2,e4eb3fb4e797b6fb949803b2d4c67b6805936da0a49d3ff5fece9972065ce9ab,OK,,Archivo con varios fotogramas
+individuo 0738,individuo 0738\img10_ind_cm0738.jpg,.jpg,6535077,4160,3120,RGB,MPO,2,6d47211248d55b20dc7dd896e543647d307bbd3217d26bf54ed50b974d198509,OK,,Archivo con varios fotogramas
+individuo 0738,individuo 0738\img11_ind_cm0738.jpg,.jpg,6913273,4160,3120,RGB,MPO,2,d36bad391faeb64877ae1bcd0b0b5f2c6aa973403aa4da43695e9cb271723203,OK,,Archivo con varios fotogramas
+individuo 0738,individuo 0738\img12_ind_cm0738.jpg,.jpg,5775181,4160,3120,RGB,MPO,2,6f0b4a0fbb57c52a47da93d19736125eccb4f64be86a61e846da7ac451e36771,OK,,Archivo con varios fotogramas
+individuo 0738,individuo 0738\img13_ind_cm0738.jpg,.jpg,7169156,4160,3120,RGB,MPO,2,76d1c5f8394aa7b67ab588573d8668bda919405b02817144cc0a18aa55fb82ff,OK,,Archivo con varios fotogramas
+individuo 0738,individuo 0738\img14_ind_cm0738.jpg,.jpg,7127957,4160,3120,RGB,MPO,2,fc63129931217209f6e0adfc96e8475a5b8f0175249fed5faa82d5687857d5a5,OK,,Archivo con varios fotogramas
+individuo 0738,individuo 0738\img15_ind_cm0738.jpg,.jpg,7202078,4160,3120,RGB,MPO,2,17af0f57e480d4f4f7543540fcd3bbe7927df214d83ce3ec73777cc3eb5a52be,OK,,Archivo con varios fotogramas
+individuo 0739,individuo 0739\img01_ind_cm0739.jpg,.jpg,6917300,4160,3120,RGB,MPO,2,ae40c34a2799d6945a03b15efe6a778613cf97045f4216f562b08d0e7f883087,OK,,Archivo con varios fotogramas
+individuo 0739,individuo 0739\img02_ind_cm0739.jpg,.jpg,6160151,4160,3120,RGB,MPO,2,27284abf89c0a7a10cc25c4f000bce7afa38f3e2a789dd0bfed6a061ab343de5,OK,,Archivo con varios fotogramas
+individuo 0739,individuo 0739\img03_ind_cm0739.jpg,.jpg,6078640,4160,3120,RGB,MPO,2,825fae8ed9035e7a05dbb90355f1ce0ea1774c8355c4e4eab68e2ad4d4774ebf,OK,,Archivo con varios fotogramas
+individuo 0743,individuo 0743\img02_ind_cm0743.jpg,.jpg,6514954,4160,3120,RGB,MPO,2,57b911e8fde8fc0f8e49c1914020d4aff02cf21b23b8571417f30fa850446b5c,OK,,Archivo con varios fotogramas
+individuo 0743,individuo 0743\img03_ind_cm0743.jpg,.jpg,6992711,4160,3120,RGB,MPO,2,67d4c3d8143cfe28a2d01a58b048c3dd63a2cd414f4a144a0067fb9b5a21597d,OK,,Archivo con varios fotogramas
+individuo 0743,individuo 0743\img04_ind_cm0743.jpg,.jpg,6627869,4160,3120,RGB,MPO,2,1dc71f5f75354e7247573a6abe4267039cddd8bb183a7f7870eedc4c7f3ffd2b,OK,,Archivo con varios fotogramas
+individuo 0744,individuo 0744\img03_ind_cm0744.jpg,.jpg,6872368,4160,3120,RGB,MPO,2,e54b354ef2615578eead75bfa31ad1276b852ed766bb7e625153ee43ef12f81b,OK,,Archivo con varios fotogramas
+individuo 0744,individuo 0744\img04_ind_cm0744.jpg,.jpg,6944948,4160,3120,RGB,MPO,2,e633e451f454778f398c973f5cb364b5408257f51cd96cf8f7c950c06997e58f,OK,,Archivo con varios fotogramas
+individuo 0745,individuo 0745\img01_ind_cm0745.jpg,.jpg,934218,,,RGB,MPO,2,a5d093e130c92f4739cfc61da1fd1803b681b4019b1c99b40a80bfceca8aba35,ERROR,Imagen: ValueError: No data found for frame,
+individuo 0745,individuo 0745\img02_ind_cm0745.jpg,.jpg,6433301,4160,3120,RGB,MPO,2,e7b3253cb1c6e878229cb0373e2ae982e92c61a8f0786520d2c54021b4d2c639,OK,,Archivo con varios fotogramas
+individuo 0745,individuo 0745\img03_ind_cm0745.jpg,.jpg,6986000,4160,3120,RGB,MPO,2,679f0dd3147e57b69e98a9c826fe1482a48ff0f793539790af1a13a9ca2412e1,OK,,Archivo con varios fotogramas
+individuo 0750,individuo 0750\img01_ind_cm0750.jpg,.jpg,2212862,,,RGB,MPO,2,b0160269bcf63ba96c4e398d24f715e938124fbda4b4ca3aa75dbd780f9ac3d4,ERROR,Imagen: ValueError: No data found for frame,
+individuo 0750,individuo 0750\img02_ind_cm0750.jpg,.jpg,6866309,4160,3120,RGB,MPO,2,ee409dfa621f3448cfda45d1cc6208fa9d7b9f42586cff812fef1b162f253862,OK,,Archivo con varios fotogramas
+individuo 0750,individuo 0750\img03_ind_cm0750.jpg,.jpg,6473184,4160,3120,RGB,MPO,2,1568dd36c5cb870bfd646b5ed392c4a557d23cc15d0be5133b3f9671f365ad08,OK,,Archivo con varios fotogramas
+individuo 0751,individuo 0751\img01_ind_cm0751.jpg,.jpg,6034959,4160,3120,RGB,MPO,2,a720d7a430154a2647d00216b244f9ffbf566398e9df0c6aaefa4f2335746800,OK,,Archivo con varios fotogramas
+individuo 0751,individuo 0751\img02_ind_cm0751.jpg,.jpg,6011932,4160,3120,RGB,MPO,2,e1b03d90c90426a61aa499759ee3ceaeff7a34fd8f05b6e379044048189e29e7,OK,,Archivo con varios fotogramas
+individuo 0754,individuo 0754\img01_ind_cm0754.jpg,.jpg,6729309,4160,3120,RGB,MPO,2,5d86855b0d64eac12e84abc58b377f8f530955a0a80c488165f79eb50c234f1e,OK,,Archivo con varios fotogramas
+individuo 0754,individuo 0754\img02_ind_cm0754.jpg,.jpg,6779633,4160,3120,RGB,MPO,2,8e8e2fe4a2afc071b24792a25de0cd361b29ac9001369dae773b69672741f449,OK,,Archivo con varios fotogramas
+individuo 0754,individuo 0754\img03_ind_cm0754.jpg,.jpg,6182731,4160,3120,RGB,MPO,2,bbdeeb8ae3a4d2ab8098a6237883df9b3d534bcbcf46576b2a8de6ef6f8adfa8,OK,,Archivo con varios fotogramas
+individuo 0754,individuo 0754\img04_ind_cm0754.jpg,.jpg,6829923,4160,3120,RGB,MPO,2,09fbb82d17d082fb6acc58d60df3bccdf6cefb9836d9ec6c6cdbcea63a39f4f8,OK,,Archivo con varios fotogramas
+individuo 0754,individuo 0754\img05_ind_cm0754.jpg,.jpg,7136907,4160,3120,RGB,MPO,2,b0066b5d6ac65f64dc6d206a7d2acbb193578e61bb146b745848e59188e2a785,OK,,Archivo con varios fotogramas
+individuo 0755,individuo 0755\img01_ind_cm0755.jpg,.jpg,6443432,4160,3120,RGB,MPO,2,127c06bb4793f7af1d2f51db1b8ba5884703635c51c3f9fbec14e0c949a0ffb0,OK,,Archivo con varios fotogramas
+individuo 0755,individuo 0755\img02_ind_cm0755.jpg,.jpg,6864311,4160,3120,RGB,MPO,2,810d9fc5fab56aa1b3080952ad15461efef74afc636fe8f6397b902803f02a06,OK,,Archivo con varios fotogramas
+individuo 0755,individuo 0755\img03_ind_cm0755.jpg,.jpg,7086873,4160,3120,RGB,MPO,2,b0491ef12304a81f0ac5be7351850f1ea455b41bc2bc89d2c3b8d38dc1ba60f2,OK,,Archivo con varios fotogramas
+individuo 0757,individuo 0757\img01_ind_cm0757.jpg,.jpg,6674916,4160,3120,RGB,MPO,2,0b5eed645375b1c406af52f20fac8ad77f737a143c44e97d98a11dec389f5a5b,OK,,Archivo con varios fotogramas
+individuo 0757,individuo 0757\img02_ind_cm0757.jpg,.jpg,6674144,4160,3120,RGB,MPO,2,df30e47b5633d040869078f7baaa4ec62bb3e46078dbe0fde1516e56ac0d306a,OK,,Archivo con varios fotogramas
+individuo 0758,individuo 0758\img01_ind_cm0758.jpg,.jpg,766662,,,RGB,MPO,2,42ff4c2edbc2fcd8f502c02ee83aaf630139fc9a3182f2556bdf88d9deb3f3aa,ERROR,Imagen: ValueError: No data found for frame,
+individuo 0758,individuo 0758\img02_ind_cm0758.jpg,.jpg,7034846,4160,3120,RGB,MPO,2,ae19504ea3941b65d9ca8570336831d6c7526bb60536df4e0f8112b86ffb38ed,OK,,Archivo con varios fotogramas
+individuo 0758,individuo 0758\img03_ind_cm0758.jpg,.jpg,6970997,4160,3120,RGB,MPO,2,3ddb972a4ad48f3ce05c6c7e51490eb1c156a67ae167b2483ef99a6656b03b69,OK,,Archivo con varios fotogramas
+individuo 0758,individuo 0758\img04_ind_cm0758.jpg,.jpg,6921306,4160,3120,RGB,MPO,2,7a0f5d2cbd98b467284e4c22ed0740918598661f6ca8735e20bb1f30d5548b04,OK,,Archivo con varios fotogramas
+individuo 0759,individuo 0759\img01_ind_cm0759.jpg,.jpg,6810546,4160,3120,RGB,MPO,2,3fce619fd079f3bdd0b5f1af75d993ffbca4fcf9397be82528838b99f5da1c5a,OK,,Archivo con varios fotogramas
+individuo 0759,individuo 0759\img02_ind_cm0759.jpg,.jpg,432604,,,RGB,MPO,2,fd0ad73d7d6affdbfef05929735d19c9568a7fa376ef45d3c8df8dde8cfd1468,ERROR,Imagen: ValueError: No data found for frame,
+individuo 0763,individuo 0763\img02_ind_cm0763.jpg,.jpg,6053020,4160,3120,RGB,MPO,2,cfe8708ad0d2d50d9fff60894f6a8d80621f17bf4d68125d2b02daeb19c1967e,OK,,Archivo con varios fotogramas
+individuo 0763,individuo 0763\img03_ind_cm0763.jpg,.jpg,6359946,4160,3120,RGB,MPO,2,38010a9f9d24266af6e84db3d9ee1a287b746e991ad898080e35b0c7c3100a08,OK,,Archivo con varios fotogramas
+individuo 0763,individuo 0763\img04_ind_cm0763.jpg,.jpg,6180637,4160,3120,RGB,MPO,2,d4b507d7d6d7b139e81b22fc322172aecfde9400a808fbd27de23ba91362f40c,OK,,Archivo con varios fotogramas
+individuo 0763,individuo 0763\img05_ind_cm0763.jpg,.jpg,6001836,4160,3120,RGB,MPO,2,e29419054b6a889ad719aa16746f875b078482539114312902bc1bdba9aebffe,OK,,Archivo con varios fotogramas
+individuo 0764,individuo 0764\img02_ind_cm0764.jpg,.jpg,6644725,4160,3120,RGB,MPO,2,404686b6c53804fb1bf8ff5a3a3c2f5dcd501cf44246ba14f0b371581a9fbd7b,OK,,Archivo con varios fotogramas
+individuo 0764,individuo 0764\img03_ind_cm0764.jpg,.jpg,6778707,4160,3120,RGB,MPO,2,bec4030acda721149134d244fae8596bf70dc16c418191c367768ed0dd7653c9,OK,,Archivo con varios fotogramas
+individuo 0764,individuo 0764\img04_ind_cm0764.jpg,.jpg,6723217,4160,3120,RGB,MPO,2,0db555d54b6cb4d7d945976a9c7ef3dec1cd1f326b221a1fa316136cf8cfd95a,OK,,Archivo con varios fotogramas
+individuo 0765,individuo 0765\img01_ind_cm0765.jpg,.jpg,6347241,4160,3120,RGB,MPO,2,fbb442d1ae579b84a37a2ef1da461f137494abe133b8ba0d225151bbd830750c,OK,,Archivo con varios fotogramas
+individuo 0765,individuo 0765\img02_ind_cm0765.jpg,.jpg,6967491,4160,3120,RGB,MPO,2,6f52d429ad4ca85f82fb51df4c5237a82a2192160de9d8a0f8b2971ff5ca8584,OK,,Archivo con varios fotogramas
+individuo 0765,individuo 0765\img03_ind_cm0765.jpg,.jpg,6861440,4160,3120,RGB,MPO,2,3b4d59584894e8fae793461aff801d29c61607e4418a5c17628e85dfc4350801,OK,,Archivo con varios fotogramas
+individuo 0765,individuo 0765\img04_ind_cm0765.jpg,.jpg,7220638,4160,3120,RGB,MPO,2,cefad066c2db4023aaf7c9f1efd1171f4f3d14baf99eaa7dcace66d21f9dee1d,OK,,Archivo con varios fotogramas
+individuo 0765,individuo 0765\img05_ind_cm0765.jpg,.jpg,1288781,,,RGB,MPO,2,8a2ecaf4b9e295fa414268c28c7ce0038b749762d60d04245cb54baabd3f59f2,ERROR,Imagen: ValueError: No data found for frame,
+individuo 0766,individuo 0766\img01_ind_cm0766.jpg,.jpg,6667175,4160,3120,RGB,MPO,2,efc7c91f9efdec13b1dae5bdc54c904cb00ad60d4e2bb091e009172c35ab05dc,OK,,Archivo con varios fotogramas
+individuo 0766,individuo 0766\img02_ind_cm0766.jpg,.jpg,6760655,4160,3120,RGB,MPO,2,f65d8bae756e48b158a2ebe849d473c6670fdcdbff1ad98c147dfdeb5c1fbf14,OK,,Archivo con varios fotogramas
+individuo 0766,individuo 0766\img03_ind_cm0766.jpg,.jpg,6992698,4160,3120,RGB,MPO,2,e504f4252a61a7e54da9c7826985e34b2baa5beed9b419c1a54ce381302503c4,OK,,Archivo con varios fotogramas
+individuo 0766,individuo 0766\img04_ind_cm0766.jpg,.jpg,6665970,4160,3120,RGB,MPO,2,56c1005e9d96ba2bb8df75c5eda000732ff3ba5b3544992dcd0e8ede7af2d853,OK,,Archivo con varios fotogramas
+individuo 0766,individuo 0766\img05_ind_cm0766.jpg,.jpg,6826207,4160,3120,RGB,MPO,2,c5ed0fc7d438b4a004e0c50697148789fb0631e6e72994d0498ed9290b320a25,OK,,Archivo con varios fotogramas
+individuo 0766,individuo 0766\img06_ind_cm0766.jpg,.jpg,1091566,,,RGB,MPO,2,172ca2731e1b9cdcdc8e6ab8178adf3faf4b1f5d3ca468fb999230e16dd2083c,ERROR,Imagen: ValueError: No data found for frame,
+individuo 0767,individuo 0767\img01_ind_cm0767.jpg,.jpg,1218082,,,RGB,MPO,2,e0900a0fde82c600a9f9be39e838b6ccf05e30f131580849a925d939aefd4fc7,ERROR,Imagen: ValueError: No data found for frame,
+individuo 0767,individuo 0767\img02_ind_cm0767.jpg,.jpg,6376327,4160,3120,RGB,MPO,2,e0ee6a0cec8323092e096663c225e3b0c5e0af3da6956e353a5a77d767a55751,OK,,Archivo con varios fotogramas
+individuo 0767,individuo 0767\img03_ind_cm0767.jpg,.jpg,7271903,4160,3120,RGB,MPO,2,0240f1c0ef8315bfb0a52030db03b23796c988ffdeaf5d6eab26fb1f08137a26,OK,,Archivo con varios fotogramas
+individuo 0767,individuo 0767\img04_ind_cm0767.jpg,.jpg,6593798,4160,3120,RGB,MPO,2,fa761052b592441a848e1484e301824741a555c4d4e5b520824893d00cea43d5,OK,,Archivo con varios fotogramas
+individuo 0767,individuo 0767\img06_ind_cm0767.jpg,.jpg,7175015,4160,3120,RGB,MPO,2,1066ae0b4ae0beea909ae8e1ef5b73becb38f868874ad06ce381bb6ef453422c,OK,,Archivo con varios fotogramas
+individuo 0768,individuo 0768\img01_ind_cm0768.jpg,.jpg,1126038,,,RGB,MPO,2,2929639b6f8555a7bca928ac5cf220b2d42e8f3cbf686a07f0201cd13b243e8e,ERROR,Imagen: ValueError: No data found for frame,
+individuo 0768,individuo 0768\img02_ind_cm0768.jpg,.jpg,6728730,4160,3120,RGB,MPO,2,9f6e1beef95adfb7db398870c5aa6b7c44940cfdef19df5eccd882c9a842b208,OK,,Archivo con varios fotogramas
+individuo 0768,individuo 0768\img03_ind_cm0768.jpg,.jpg,7004445,4160,3120,RGB,MPO,2,395675710095e852f6de5c4145d9b435643fb56e7745886698eeb488b5f71498,OK,,Archivo con varios fotogramas
+individuo 0768,individuo 0768\img04_ind_cm0768.jpg,.jpg,7120405,4160,3120,RGB,MPO,2,9b44f956841d1a00b3f0da7b63126fa95263b6bc688168e6b258041d110f06b5,OK,,Archivo con varios fotogramas
+individuo 0768,individuo 0768\img05_ind_cm0768.jpg,.jpg,6792648,4160,3120,RGB,MPO,2,071d81e193030e6f306c8c0e9cd380e98ed62c0bd3ecb49c6fa5c5d605fb032a,OK,,Archivo con varios fotogramas
+individuo 0768,individuo 0768\img06_ind_cm0768.jpg,.jpg,7213800,4160,3120,RGB,MPO,2,03bcb445eea96c60b6de4dc369d53d48a10db3ba718ac8a703fde11bcd0c832f,OK,,Archivo con varios fotogramas
+individuo 0772,individuo 0772\img02_ind_cm0772.jpg,.jpg,6546015,4160,3120,RGB,MPO,2,7986c2d0ced75a6e73786ae78a45cb9b653388e272a2da5c253421e412f04838,OK,,Archivo con varios fotogramas
+individuo 0772,individuo 0772\img03_ind_cm0772.jpg,.jpg,6462544,4160,3120,RGB,MPO,2,e6d3e4592a5461dfc75caa40af51d181979e3e0a53e85845055c38d72aba1420,OK,,Archivo con varios fotogramas
+individuo 0772,individuo 0772\img04_ind_cm0772.jpg,.jpg,6566958,4160,3120,RGB,MPO,2,d8d4fb6d48313396c4e37bf06e3f736c4c3ac1f01c2a326e0739ac463abec18f,OK,,Archivo con varios fotogramas
+individuo 0772,individuo 0772\img05_ind_cm0772.jpg,.jpg,6238706,4160,3120,RGB,MPO,2,23cce4197ec34e31e567fee3cb8fbb685c462b7c57c7982eb3cb21fe4e30bcef,OK,,Archivo con varios fotogramas

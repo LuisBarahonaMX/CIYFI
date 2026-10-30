@@ -1,0 +1,5 @@
+path: "C:/Users/cancu/Pictures/PROYECTO TORTUGAS/zproyecto3_0/datasets3_0/detector_piloto_20261003_214257_846676"
+train: images/train
+val: images/val
+names:
+  0: cabeza_tortuga

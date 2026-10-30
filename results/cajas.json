@@ -1,0 +1,4509 @@
+[
+  {
+    "grupo": "nueva",
+    "numero": "1",
+    "individuo": "individuo 0362",
+    "ruta_original": "individuo 0362\\img11_ind_cm0362.jpg",
+    "modelo": "piloto",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        1030.567138671875,
+        678.6483154296875,
+        4590.615234375,
+        3049.8037109375
+      ],
+      [
+        0.0,
+        0.0,
+        1838.552001953125,
+        3456.0
+      ]
+    ],
+    "confianzas": [
+      0.7440546751022339,
+      0.4464928209781647
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "1",
+    "individuo": "individuo 0362",
+    "ruta_original": "individuo 0362\\img11_ind_cm0362.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        1431.5738525390625,
+        634.6824340820312,
+        4593.51904296875,
+        3182.1181640625
+      ],
+      [
+        0.0,
+        0.0,
+        2062.77392578125,
+        3456.0
+      ]
+    ],
+    "confianzas": [
+      0.8061897158622742,
+      0.636161208152771
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "2",
+    "individuo": "individuo 0728",
+    "ruta_original": "individuo 0728\\img11_ind_cm0728.jpg",
+    "modelo": "piloto",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        1453.930419921875,
+        287.52471923828125,
+        3311.344482421875,
+        2580.59423828125
+      ]
+    ],
+    "confianzas": [
+      0.8187282681465149
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "2",
+    "individuo": "individuo 0728",
+    "ruta_original": "individuo 0728\\img11_ind_cm0728.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        1471.6607666015625,
+        298.7742919921875,
+        3314.1337890625,
+        2540.690185546875
+      ]
+    ],
+    "confianzas": [
+      0.7529334425926208
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "3",
+    "individuo": "individuo 0392",
+    "ruta_original": "individuo 0392\\img10_ind_cm0392.jpg",
+    "modelo": "piloto",
+    "ancho": 3000,
+    "alto": 4000,
+    "cajas": [
+      [
+        522.047607421875,
+        1197.901123046875,
+        2007.51953125,
+        3179.92529296875
+      ]
+    ],
+    "confianzas": [
+      0.7946516275405884
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "3",
+    "individuo": "individuo 0392",
+    "ruta_original": "individuo 0392\\img10_ind_cm0392.jpg",
+    "modelo": "refuerzo",
+    "ancho": 3000,
+    "alto": 4000,
+    "cajas": [
+      [
+        608.2730102539062,
+        1256.2664794921875,
+        1948.031982421875,
+        3459.336669921875
+      ]
+    ],
+    "confianzas": [
+      0.5932139754295349
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "4",
+    "individuo": "individuo 0528",
+    "ruta_original": "individuo 0528\\img01_ind_cm0528.jpg",
+    "modelo": "piloto",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        892.8469848632812,
+        74.1676025390625,
+        3734.454833984375,
+        3143.463134765625
+      ]
+    ],
+    "confianzas": [
+      0.7944934368133545
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "4",
+    "individuo": "individuo 0528",
+    "ruta_original": "individuo 0528\\img01_ind_cm0528.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        959.1283569335938,
+        42.32987976074219,
+        3742.669677734375,
+        3203.34814453125
+      ]
+    ],
+    "confianzas": [
+      0.6639434695243835
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "5",
+    "individuo": "individuo 0193",
+    "ruta_original": "individuo 0193\\img01_ind_cm0193.jpg",
+    "modelo": "piloto",
+    "ancho": 395,
+    "alto": 485,
+    "cajas": [
+      [
+        0.0,
+        0.0,
+        395.0,
+        485.0
+      ]
+    ],
+    "confianzas": [
+      0.9557166695594788
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "5",
+    "individuo": "individuo 0193",
+    "ruta_original": "individuo 0193\\img01_ind_cm0193.jpg",
+    "modelo": "refuerzo",
+    "ancho": 395,
+    "alto": 485,
+    "cajas": [
+      [
+        0.0,
+        0.0,
+        395.0,
+        485.0
+      ]
+    ],
+    "confianzas": [
+      0.9550769329071045
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "6",
+    "individuo": "individuo 0122",
+    "ruta_original": "individuo 0122\\img01_ind_cm0122.jpg",
+    "modelo": "piloto",
+    "ancho": 336,
+    "alto": 433,
+    "cajas": [
+      [
+        0.0,
+        15.804160118103027,
+        336.0,
+        429.6675720214844
+      ]
+    ],
+    "confianzas": [
+      0.9101600050926208
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "6",
+    "individuo": "individuo 0122",
+    "ruta_original": "individuo 0122\\img01_ind_cm0122.jpg",
+    "modelo": "refuerzo",
+    "ancho": 336,
+    "alto": 433,
+    "cajas": [
+      [
+        2.416881561279297,
+        25.194067001342773,
+        335.1973571777344,
+        430.5924377441406
+      ]
+    ],
+    "confianzas": [
+      0.9299190044403076
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "7",
+    "individuo": "individuo 0739",
+    "ruta_original": "individuo 0739\\img03_ind_cm0739.jpg",
+    "modelo": "piloto",
+    "ancho": 4160,
+    "alto": 3120,
+    "cajas": [
+      [
+        756.8735961914062,
+        448.45416259765625,
+        2834.7373046875,
+        2903.92138671875
+      ]
+    ],
+    "confianzas": [
+      0.852122962474823
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "7",
+    "individuo": "individuo 0739",
+    "ruta_original": "individuo 0739\\img03_ind_cm0739.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4160,
+    "alto": 3120,
+    "cajas": [
+      [
+        878.95068359375,
+        455.9719543457031,
+        2949.974365234375,
+        2966.4033203125
+      ]
+    ],
+    "confianzas": [
+      0.8727532029151917
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "8",
+    "individuo": "individuo 0693",
+    "ruta_original": "individuo 0693\\img03_ind_cm0693.jpg",
+    "modelo": "piloto",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        1428.3719482421875,
+        480.208740234375,
+        3589.607666015625,
+        3301.290283203125
+      ]
+    ],
+    "confianzas": [
+      0.8381413221359253
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "8",
+    "individuo": "individuo 0693",
+    "ruta_original": "individuo 0693\\img03_ind_cm0693.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        1463.7666015625,
+        458.6128234863281,
+        3651.35595703125,
+        3368.633544921875
+      ]
+    ],
+    "confianzas": [
+      0.8458476662635803
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "9",
+    "individuo": "individuo 0028",
+    "ruta_original": "individuo 0028\\img01_ind_cm0028.jpg",
+    "modelo": "piloto",
+    "ancho": 1783,
+    "alto": 2394,
+    "cajas": [
+      [
+        0.33675670623779297,
+        63.980350494384766,
+        1783.0,
+        2392.23046875
+      ]
+    ],
+    "confianzas": [
+      0.919719398021698
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "9",
+    "individuo": "individuo 0028",
+    "ruta_original": "individuo 0028\\img01_ind_cm0028.jpg",
+    "modelo": "refuerzo",
+    "ancho": 1783,
+    "alto": 2394,
+    "cajas": [
+      [
+        5.40671443939209,
+        29.744407653808594,
+        1781.7135009765625,
+        2386.004638671875
+      ]
+    ],
+    "confianzas": [
+      0.9373697638511658
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "10",
+    "individuo": "individuo 0117",
+    "ruta_original": "individuo 0117\\img01_ind_cm0117.jpg",
+    "modelo": "piloto",
+    "ancho": 438,
+    "alto": 608,
+    "cajas": [
+      [
+        0.39849090576171875,
+        39.506927490234375,
+        436.2515869140625,
+        594.2335205078125
+      ]
+    ],
+    "confianzas": [
+      0.9286201000213623
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "10",
+    "individuo": "individuo 0117",
+    "ruta_original": "individuo 0117\\img01_ind_cm0117.jpg",
+    "modelo": "refuerzo",
+    "ancho": 438,
+    "alto": 608,
+    "cajas": [
+      [
+        3.580416679382324,
+        19.125707626342773,
+        434.4062194824219,
+        604.0739135742188
+      ]
+    ],
+    "confianzas": [
+      0.9099881052970886
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "11",
+    "individuo": "individuo 0142",
+    "ruta_original": "individuo 0142\\img03_ind_cm0142.jpg",
+    "modelo": "piloto",
+    "ancho": 2427,
+    "alto": 3007,
+    "cajas": [
+      [
+        0.0,
+        15.413880348205566,
+        2392.619140625,
+        3007.0
+      ]
+    ],
+    "confianzas": [
+      0.9458752274513245
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "11",
+    "individuo": "individuo 0142",
+    "ruta_original": "individuo 0142\\img03_ind_cm0142.jpg",
+    "modelo": "refuerzo",
+    "ancho": 2427,
+    "alto": 3007,
+    "cajas": [
+      [
+        0.0,
+        7.803581714630127,
+        2414.533935546875,
+        2994.783935546875
+      ]
+    ],
+    "confianzas": [
+      0.9494675993919373
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "12",
+    "individuo": "individuo 0963",
+    "ruta_original": "individuo 0963\\img04_ind_cm0963.jpg",
+    "modelo": "piloto",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        1662.332763671875,
+        1077.5992431640625,
+        3683.308349609375,
+        3412.305908203125
+      ]
+    ],
+    "confianzas": [
+      0.8500767946243286
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "12",
+    "individuo": "individuo 0963",
+    "ruta_original": "individuo 0963\\img04_ind_cm0963.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        1704.11767578125,
+        1026.172607421875,
+        3662.850830078125,
+        3349.401611328125
+      ]
+    ],
+    "confianzas": [
+      0.8070885539054871
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "13",
+    "individuo": "individuo 0377",
+    "ruta_original": "individuo 0377\\img01_ind_cm0377.jpg",
+    "modelo": "piloto",
+    "ancho": 343,
+    "alto": 438,
+    "cajas": [
+      [
+        0.0,
+        30.594409942626953,
+        337.72125244140625,
+        420.21429443359375
+      ]
+    ],
+    "confianzas": [
+      0.8711514472961426
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "13",
+    "individuo": "individuo 0377",
+    "ruta_original": "individuo 0377\\img01_ind_cm0377.jpg",
+    "modelo": "refuerzo",
+    "ancho": 343,
+    "alto": 438,
+    "cajas": [
+      [
+        0.0,
+        35.66611099243164,
+        337.8981628417969,
+        410.9894714355469
+      ]
+    ],
+    "confianzas": [
+      0.8924111127853394
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "14",
+    "individuo": "individuo 0714",
+    "ruta_original": "individuo 0714\\img09_ind_cm0714.jpg",
+    "modelo": "piloto",
+    "ancho": 640,
+    "alto": 480,
+    "cajas": [
+      [
+        82.28741455078125,
+        92.28482055664062,
+        516.7657470703125,
+        379.58648681640625
+      ]
+    ],
+    "confianzas": [
+      0.3068719804286957
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "14",
+    "individuo": "individuo 0714",
+    "ruta_original": "individuo 0714\\img09_ind_cm0714.jpg",
+    "modelo": "refuerzo",
+    "ancho": 640,
+    "alto": 480,
+    "cajas": [
+      [
+        97.875244140625,
+        99.65716552734375,
+        514.2023315429688,
+        357.86773681640625
+      ]
+    ],
+    "confianzas": [
+      0.579533576965332
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "15",
+    "individuo": "individuo 0374",
+    "ruta_original": "individuo 0374\\img37_ind_cm0374.jpg",
+    "modelo": "piloto",
+    "ancho": 640,
+    "alto": 480,
+    "cajas": [
+      [
+        187.03756713867188,
+        29.493621826171875,
+        511.9825134277344,
+        445.2193298339844
+      ]
+    ],
+    "confianzas": [
+      0.8321657180786133
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "15",
+    "individuo": "individuo 0374",
+    "ruta_original": "individuo 0374\\img37_ind_cm0374.jpg",
+    "modelo": "refuerzo",
+    "ancho": 640,
+    "alto": 480,
+    "cajas": [
+      [
+        193.78196716308594,
+        45.42242431640625,
+        518.8592529296875,
+        448.622314453125
+      ]
+    ],
+    "confianzas": [
+      0.867268979549408
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "16",
+    "individuo": "individuo 0990",
+    "ruta_original": "individuo 0990\\img05_ind_cm0990.jpg",
+    "modelo": "piloto",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        1301.336669921875,
+        197.52362060546875,
+        3942.712646484375,
+        3422.392333984375
+      ]
+    ],
+    "confianzas": [
+      0.7507284283638
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "16",
+    "individuo": "individuo 0990",
+    "ruta_original": "individuo 0990\\img05_ind_cm0990.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        1409.82666015625,
+        230.60586547851562,
+        3919.67431640625,
+        3448.239501953125
+      ]
+    ],
+    "confianzas": [
+      0.862663209438324
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "17",
+    "individuo": "individuo 0581",
+    "ruta_original": "individuo 0581\\img07_ind_cm0581.jpg",
+    "modelo": "piloto",
+    "ancho": 640,
+    "alto": 480,
+    "cajas": [
+      [
+        207.69082641601562,
+        1.265472412109375,
+        487.8470153808594,
+        393.4744567871094
+      ],
+      [
+        240.3194122314453,
+        398.970703125,
+        634.6091918945312,
+        479.4737548828125
+      ],
+      [
+        468.9942321777344,
+        0.440704345703125,
+        640.0,
+        290.31805419921875
+      ],
+      [
+        0.3792572021484375,
+        55.8548583984375,
+        185.6835174560547,
+        411.340087890625
+      ]
+    ],
+    "confianzas": [
+      0.781609058380127,
+      0.5376792550086975,
+      0.5034218430519104,
+      0.3874015212059021
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "17",
+    "individuo": "individuo 0581",
+    "ruta_original": "individuo 0581\\img07_ind_cm0581.jpg",
+    "modelo": "refuerzo",
+    "ancho": 640,
+    "alto": 480,
+    "cajas": [
+      [
+        215.99017333984375,
+        4.95556640625,
+        483.62322998046875,
+        402.62005615234375
+      ]
+    ],
+    "confianzas": [
+      0.8171629309654236
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "18",
+    "individuo": "individuo 0867",
+    "ruta_original": "individuo 0867\\img03_ind_cm0867.jpg",
+    "modelo": "piloto",
+    "ancho": 4000,
+    "alto": 3000,
+    "cajas": [
+      [
+        993.3666381835938,
+        0.0,
+        3044.921630859375,
+        2789.946533203125
+      ]
+    ],
+    "confianzas": [
+      0.8274847269058228
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "18",
+    "individuo": "individuo 0867",
+    "ruta_original": "individuo 0867\\img03_ind_cm0867.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4000,
+    "alto": 3000,
+    "cajas": [
+      [
+        1024.9700927734375,
+        28.774642944335938,
+        3132.447265625,
+        2820.64013671875
+      ]
+    ],
+    "confianzas": [
+      0.9120418429374695
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "19",
+    "individuo": "individuo 0547",
+    "ruta_original": "individuo 0547\\img08_ind_cm0547.jpg",
+    "modelo": "piloto",
+    "ancho": 480,
+    "alto": 640,
+    "cajas": [
+      [
+        8.66729736328125,
+        152.15093994140625,
+        341.296875,
+        433.3739013671875
+      ],
+      [
+        276.34210205078125,
+        31.29840087890625,
+        479.79534912109375,
+        633.9407348632812
+      ]
+    ],
+    "confianzas": [
+      0.7993736863136292,
+      0.6134107112884521
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "19",
+    "individuo": "individuo 0547",
+    "ruta_original": "individuo 0547\\img08_ind_cm0547.jpg",
+    "modelo": "refuerzo",
+    "ancho": 480,
+    "alto": 640,
+    "cajas": [
+      [
+        4.1549072265625,
+        134.7738037109375,
+        341.04962158203125,
+        443.83380126953125
+      ],
+      [
+        305.88653564453125,
+        16.18121337890625,
+        480.0,
+        594.4796752929688
+      ]
+    ],
+    "confianzas": [
+      0.8160196542739868,
+      0.4189733862876892
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "20",
+    "individuo": "individuo 0781",
+    "ruta_original": "individuo 0781\\img01_ind_cm0781.jpg",
+    "modelo": "piloto",
+    "ancho": 1860,
+    "alto": 2490,
+    "cajas": [
+      [
+        37.010093688964844,
+        46.7131462097168,
+        1860.0,
+        2489.861328125
+      ]
+    ],
+    "confianzas": [
+      0.9057731628417969
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "20",
+    "individuo": "individuo 0781",
+    "ruta_original": "individuo 0781\\img01_ind_cm0781.jpg",
+    "modelo": "refuerzo",
+    "ancho": 1860,
+    "alto": 2490,
+    "cajas": [
+      [
+        125.85082244873047,
+        72.65499877929688,
+        1853.1435546875,
+        2480.696044921875
+      ]
+    ],
+    "confianzas": [
+      0.8941725492477417
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "21",
+    "individuo": "individuo 0950",
+    "ruta_original": "individuo 0950\\img03_ind_cm0950.jpg",
+    "modelo": "piloto",
+    "ancho": 4000,
+    "alto": 3000,
+    "cajas": [
+      [
+        854.4872436523438,
+        214.7882537841797,
+        3455.58251953125,
+        2978.49951171875
+      ]
+    ],
+    "confianzas": [
+      0.7892796993255615
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "21",
+    "individuo": "individuo 0950",
+    "ruta_original": "individuo 0950\\img03_ind_cm0950.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4000,
+    "alto": 3000,
+    "cajas": [
+      [
+        960.2097778320312,
+        212.69264221191406,
+        3557.57080078125,
+        2980.81494140625
+      ]
+    ],
+    "confianzas": [
+      0.8556738495826721
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "22",
+    "individuo": "individuo 0502",
+    "ruta_original": "individuo 0502\\img02_ind_cm0502.jpg",
+    "modelo": "piloto",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        958.2354125976562,
+        7.305028915405273,
+        3708.50244140625,
+        3224.39501953125
+      ]
+    ],
+    "confianzas": [
+      0.8591347336769104
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "22",
+    "individuo": "individuo 0502",
+    "ruta_original": "individuo 0502\\img02_ind_cm0502.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        924.5982055664062,
+        17.71281623840332,
+        3766.136474609375,
+        3247.639892578125
+      ]
+    ],
+    "confianzas": [
+      0.9236966967582703
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "23",
+    "individuo": "individuo 0293",
+    "ruta_original": "individuo 0293\\img02_ind_cm0293.jpg",
+    "modelo": "piloto",
+    "ancho": 1522,
+    "alto": 2412,
+    "cajas": [
+      [
+        0.0,
+        67.1782455444336,
+        1522.0,
+        2411.8623046875
+      ]
+    ],
+    "confianzas": [
+      0.8681787848472595
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "23",
+    "individuo": "individuo 0293",
+    "ruta_original": "individuo 0293\\img02_ind_cm0293.jpg",
+    "modelo": "refuerzo",
+    "ancho": 1522,
+    "alto": 2412,
+    "cajas": [
+      [
+        0.0,
+        29.28510093688965,
+        1522.0,
+        2406.5810546875
+      ]
+    ],
+    "confianzas": [
+      0.9060930609703064
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "24",
+    "individuo": "individuo 0011",
+    "ruta_original": "individuo 0011\\img01_ind_cm0011.jpg",
+    "modelo": "piloto",
+    "ancho": 399,
+    "alto": 517,
+    "cajas": [
+      [
+        0.0,
+        18.732189178466797,
+        399.0,
+        517.0
+      ]
+    ],
+    "confianzas": [
+      0.9188783764839172
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "24",
+    "individuo": "individuo 0011",
+    "ruta_original": "individuo 0011\\img01_ind_cm0011.jpg",
+    "modelo": "refuerzo",
+    "ancho": 399,
+    "alto": 517,
+    "cajas": [
+      [
+        0.0,
+        19.66104507446289,
+        399.0,
+        514.9635009765625
+      ]
+    ],
+    "confianzas": [
+      0.9085167050361633
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "25",
+    "individuo": "individuo 0188",
+    "ruta_original": "individuo 0188\\img01_ind_cm0188.jpg",
+    "modelo": "piloto",
+    "ancho": 1966,
+    "alto": 2753,
+    "cajas": [
+      [
+        38.25946044921875,
+        52.80178451538086,
+        1963.9927978515625,
+        2739.965576171875
+      ]
+    ],
+    "confianzas": [
+      0.9159414172172546
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "25",
+    "individuo": "individuo 0188",
+    "ruta_original": "individuo 0188\\img01_ind_cm0188.jpg",
+    "modelo": "refuerzo",
+    "ancho": 1966,
+    "alto": 2753,
+    "cajas": [
+      [
+        48.06203079223633,
+        25.87107276916504,
+        1940.1951904296875,
+        2740.8876953125
+      ]
+    ],
+    "confianzas": [
+      0.939978837966919
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "26",
+    "individuo": "individuo 0483",
+    "ruta_original": "individuo 0483\\img03_ind_cm0483.jpg",
+    "modelo": "piloto",
+    "ancho": 640,
+    "alto": 480,
+    "cajas": [
+      [
+        166.937744140625,
+        62.509246826171875,
+        468.1290283203125,
+        478.9214172363281
+      ]
+    ],
+    "confianzas": [
+      0.8190558552742004
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "26",
+    "individuo": "individuo 0483",
+    "ruta_original": "individuo 0483\\img03_ind_cm0483.jpg",
+    "modelo": "refuerzo",
+    "ancho": 640,
+    "alto": 480,
+    "cajas": [
+      [
+        168.88662719726562,
+        74.826416015625,
+        460.9720764160156,
+        477.67425537109375
+      ]
+    ],
+    "confianzas": [
+      0.8713182806968689
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "27",
+    "individuo": "individuo 0535",
+    "ruta_original": "individuo 0535\\img05_ind_cm0535.jpg",
+    "modelo": "piloto",
+    "ancho": 640,
+    "alto": 480,
+    "cajas": [
+      [
+        132.49920654296875,
+        13.463775634765625,
+        531.2718505859375,
+        478.0272216796875
+      ],
+      [
+        0.0,
+        31.123626708984375,
+        165.43524169921875,
+        480.0
+      ]
+    ],
+    "confianzas": [
+      0.8345853090286255,
+      0.7089458107948303
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "27",
+    "individuo": "individuo 0535",
+    "ruta_original": "individuo 0535\\img05_ind_cm0535.jpg",
+    "modelo": "refuerzo",
+    "ancho": 640,
+    "alto": 480,
+    "cajas": [
+      [
+        146.12017822265625,
+        9.63421630859375,
+        533.46826171875,
+        476.2779541015625
+      ],
+      [
+        0.0,
+        49.22953796386719,
+        157.77102661132812,
+        480.0
+      ]
+    ],
+    "confianzas": [
+      0.8951944708824158,
+      0.6498224139213562
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "28",
+    "individuo": "individuo 0485",
+    "ruta_original": "individuo 0485\\img04_ind_cm0485.jpg",
+    "modelo": "piloto",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        1381.0614013671875,
+        0.48933103680610657,
+        3295.490966796875,
+        2639.165283203125
+      ],
+      [
+        3632.800048828125,
+        290.3518981933594,
+        4607.6748046875,
+        1846.465087890625
+      ],
+      [
+        1877.0777587890625,
+        2997.6806640625,
+        4575.59912109375,
+        3456.0
+      ]
+    ],
+    "confianzas": [
+      0.7863531708717346,
+      0.5089035034179688,
+      0.27530765533447266
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "28",
+    "individuo": "individuo 0485",
+    "ruta_original": "individuo 0485\\img04_ind_cm0485.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        1394.8763427734375,
+        36.518333435058594,
+        3361.42919921875,
+        2663.922119140625
+      ]
+    ],
+    "confianzas": [
+      0.8382485508918762
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "29",
+    "individuo": "individuo 0386",
+    "ruta_original": "individuo 0386\\img04_ind_cm0386.jpg",
+    "modelo": "piloto",
+    "ancho": 480,
+    "alto": 640,
+    "cajas": [
+      [
+        0.0,
+        104.20318603515625,
+        457.0645751953125,
+        534.9595947265625
+      ]
+    ],
+    "confianzas": [
+      0.770924985408783
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "29",
+    "individuo": "individuo 0386",
+    "ruta_original": "individuo 0386\\img04_ind_cm0386.jpg",
+    "modelo": "refuerzo",
+    "ancho": 480,
+    "alto": 640,
+    "cajas": [
+      [
+        0.70758056640625,
+        99.91845703125,
+        472.888916015625,
+        541.8363037109375
+      ]
+    ],
+    "confianzas": [
+      0.8800420165061951
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "30",
+    "individuo": "individuo 0497",
+    "ruta_original": "individuo 0497\\img02_ind_cm0497.jpg",
+    "modelo": "piloto",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        49.11943054199219,
+        250.47531127929688,
+        4297.07861328125,
+        3349.3271484375
+      ]
+    ],
+    "confianzas": [
+      0.6579841375350952
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "30",
+    "individuo": "individuo 0497",
+    "ruta_original": "individuo 0497\\img02_ind_cm0497.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        30.38334846496582,
+        132.92665100097656,
+        4254.58203125,
+        3371.194580078125
+      ]
+    ],
+    "confianzas": [
+      0.7393479943275452
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "31",
+    "individuo": "individuo 0359",
+    "ruta_original": "individuo 0359\\img01_ind_cm0359.jpg",
+    "modelo": "piloto",
+    "ancho": 2067,
+    "alto": 1679,
+    "cajas": [
+      [
+        32.08831787109375,
+        27.636655807495117,
+        2067.0,
+        1636.547607421875
+      ]
+    ],
+    "confianzas": [
+      0.8429157137870789
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "31",
+    "individuo": "individuo 0359",
+    "ruta_original": "individuo 0359\\img01_ind_cm0359.jpg",
+    "modelo": "refuerzo",
+    "ancho": 2067,
+    "alto": 1679,
+    "cajas": [
+      [
+        70.8035659790039,
+        0.0,
+        2046.087890625,
+        1610.51220703125
+      ]
+    ],
+    "confianzas": [
+      0.8377630710601807
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "32",
+    "individuo": "individuo 1026",
+    "ruta_original": "individuo 1026\\img08_ind_cm1026.jpg",
+    "modelo": "piloto",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        1673.6690673828125,
+        641.2438354492188,
+        3491.947509765625,
+        2898.77001953125
+      ]
+    ],
+    "confianzas": [
+      0.8766080737113953
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "32",
+    "individuo": "individuo 1026",
+    "ruta_original": "individuo 1026\\img08_ind_cm1026.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        1746.69189453125,
+        552.2543334960938,
+        3486.8232421875,
+        2923.791259765625
+      ]
+    ],
+    "confianzas": [
+      0.8757258057594299
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "33",
+    "individuo": "individuo 0189",
+    "ruta_original": "individuo 0189\\img09_ind_cm0189.jpg",
+    "modelo": "piloto",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        1407.6824951171875,
+        194.52149963378906,
+        3983.18896484375,
+        3028.45849609375
+      ],
+      [
+        0.0,
+        253.31065368652344,
+        1135.7841796875,
+        2517.5419921875
+      ]
+    ],
+    "confianzas": [
+      0.8598252534866333,
+      0.32376667857170105
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "33",
+    "individuo": "individuo 0189",
+    "ruta_original": "individuo 0189\\img09_ind_cm0189.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        1400.692626953125,
+        150.6946258544922,
+        3957.529541015625,
+        3127.187744140625
+      ],
+      [
+        0.0,
+        0.0,
+        1116.4698486328125,
+        2471.478515625
+      ]
+    ],
+    "confianzas": [
+      0.8310924172401428,
+      0.39887282252311707
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "34",
+    "individuo": "individuo 0065",
+    "ruta_original": "individuo 0065\\img03_ind_cm0065.jpg",
+    "modelo": "piloto",
+    "ancho": 2592,
+    "alto": 2364,
+    "cajas": [
+      [
+        422.6612854003906,
+        152.3792724609375,
+        2036.12939453125,
+        2357.51318359375
+      ]
+    ],
+    "confianzas": [
+      0.7564525604248047
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "34",
+    "individuo": "individuo 0065",
+    "ruta_original": "individuo 0065\\img03_ind_cm0065.jpg",
+    "modelo": "refuerzo",
+    "ancho": 2592,
+    "alto": 2364,
+    "cajas": [
+      [
+        427.78619384765625,
+        132.14212036132812,
+        2112.45361328125,
+        2336.10546875
+      ]
+    ],
+    "confianzas": [
+      0.8345752358436584
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "35",
+    "individuo": "individuo 0281",
+    "ruta_original": "individuo 0281\\img01_ind_cm0281.jpg",
+    "modelo": "piloto",
+    "ancho": 2166,
+    "alto": 2888,
+    "cajas": [
+      [
+        0.0,
+        97.62165069580078,
+        2166.0,
+        2882.798583984375
+      ]
+    ],
+    "confianzas": [
+      0.9234414100646973
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "35",
+    "individuo": "individuo 0281",
+    "ruta_original": "individuo 0281\\img01_ind_cm0281.jpg",
+    "modelo": "refuerzo",
+    "ancho": 2166,
+    "alto": 2888,
+    "cajas": [
+      [
+        0.0,
+        71.8328628540039,
+        2166.0,
+        2876.378662109375
+      ]
+    ],
+    "confianzas": [
+      0.9079087972640991
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "36",
+    "individuo": "individuo 0195",
+    "ruta_original": "individuo 0195\\img01_ind_cm0195.jpg",
+    "modelo": "piloto",
+    "ancho": 2422,
+    "alto": 3124,
+    "cajas": [
+      [
+        0.0,
+        12.933048248291016,
+        2422.0,
+        3119.921142578125
+      ]
+    ],
+    "confianzas": [
+      0.9063078761100769
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "36",
+    "individuo": "individuo 0195",
+    "ruta_original": "individuo 0195\\img01_ind_cm0195.jpg",
+    "modelo": "refuerzo",
+    "ancho": 2422,
+    "alto": 3124,
+    "cajas": [
+      [
+        0.0,
+        0.0,
+        2416.8291015625,
+        3124.0
+      ]
+    ],
+    "confianzas": [
+      0.9387313723564148
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "37",
+    "individuo": "individuo 0343",
+    "ruta_original": "individuo 0343\\img01_ind_cm0343.jpg",
+    "modelo": "piloto",
+    "ancho": 1839,
+    "alto": 2800,
+    "cajas": [
+      [
+        0.0,
+        123.2391357421875,
+        1811.9215087890625,
+        2800.0
+      ]
+    ],
+    "confianzas": [
+      0.8336101174354553
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "37",
+    "individuo": "individuo 0343",
+    "ruta_original": "individuo 0343\\img01_ind_cm0343.jpg",
+    "modelo": "refuerzo",
+    "ancho": 1839,
+    "alto": 2800,
+    "cajas": [
+      [
+        28.657798767089844,
+        87.56996154785156,
+        1839.0,
+        2795.760009765625
+      ]
+    ],
+    "confianzas": [
+      0.8500250577926636
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "38",
+    "individuo": "individuo 0410",
+    "ruta_original": "individuo 0410\\img03_ind_cm0410.jpg",
+    "modelo": "piloto",
+    "ancho": 4160,
+    "alto": 3120,
+    "cajas": [
+      [
+        410.6917419433594,
+        280.3852844238281,
+        2965.894287109375,
+        3120.0
+      ]
+    ],
+    "confianzas": [
+      0.8145413398742676
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "38",
+    "individuo": "individuo 0410",
+    "ruta_original": "individuo 0410\\img03_ind_cm0410.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4160,
+    "alto": 3120,
+    "cajas": [
+      [
+        521.8637084960938,
+        263.8818664550781,
+        3060.81201171875,
+        3118.111083984375
+      ]
+    ],
+    "confianzas": [
+      0.863589882850647
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "39",
+    "individuo": "individuo 0823",
+    "ruta_original": "individuo 0823\\img07_ind_cm0823.jpg",
+    "modelo": "piloto",
+    "ancho": 4000,
+    "alto": 3000,
+    "cajas": [
+      [
+        395.6897888183594,
+        648.4485473632812,
+        3023.0546875,
+        3000.0
+      ]
+    ],
+    "confianzas": [
+      0.7782241702079773
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "39",
+    "individuo": "individuo 0823",
+    "ruta_original": "individuo 0823\\img07_ind_cm0823.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4000,
+    "alto": 3000,
+    "cajas": [
+      [
+        494.4266357421875,
+        584.80322265625,
+        3122.526611328125,
+        3000.0
+      ]
+    ],
+    "confianzas": [
+      0.7920173406600952
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "40",
+    "individuo": "individuo 0961",
+    "ruta_original": "individuo 0961\\img01_ind_cm0961.jpg",
+    "modelo": "piloto",
+    "ancho": 1791,
+    "alto": 2524,
+    "cajas": [
+      [
+        0.0,
+        242.12998962402344,
+        1762.5518798828125,
+        2524.0
+      ]
+    ],
+    "confianzas": [
+      0.8733147978782654
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "40",
+    "individuo": "individuo 0961",
+    "ruta_original": "individuo 0961\\img01_ind_cm0961.jpg",
+    "modelo": "refuerzo",
+    "ancho": 1791,
+    "alto": 2524,
+    "cajas": [
+      [
+        17.732433319091797,
+        159.26284790039062,
+        1765.536376953125,
+        2522.088134765625
+      ]
+    ],
+    "confianzas": [
+      0.8362418413162231
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "41",
+    "individuo": "individuo 1020",
+    "ruta_original": "individuo 1020\\img03_ind_cm1020.jpg",
+    "modelo": "piloto",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        2001.481201171875,
+        2967.847900390625,
+        4580.81884765625,
+        3456.0
+      ],
+      [
+        0.0,
+        46.328025817871094,
+        1526.2353515625,
+        3456.0
+      ],
+      [
+        1532.87744140625,
+        180.68905639648438,
+        4586.19140625,
+        3004.819580078125
+      ]
+    ],
+    "confianzas": [
+      0.7700783014297485,
+      0.605343222618103,
+      0.5409255027770996
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "41",
+    "individuo": "individuo 1020",
+    "ruta_original": "individuo 1020\\img03_ind_cm1020.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        1595.3289794921875,
+        112.83969116210938,
+        4579.5634765625,
+        3009.213623046875
+      ],
+      [
+        0.0,
+        47.343379974365234,
+        1553.29638671875,
+        3456.0
+      ],
+      [
+        1883.5601806640625,
+        2957.25537109375,
+        4595.818359375,
+        3456.0
+      ]
+    ],
+    "confianzas": [
+      0.5673959255218506,
+      0.4436110258102417,
+      0.2994406819343567
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "42",
+    "individuo": "individuo 0956",
+    "ruta_original": "individuo 0956\\img01_ind_cm0956.jpg",
+    "modelo": "piloto",
+    "ancho": 2283,
+    "alto": 3496,
+    "cajas": [
+      [
+        0.0,
+        312.2496643066406,
+        2283.0,
+        3496.0
+      ]
+    ],
+    "confianzas": [
+      0.7632826566696167
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "42",
+    "individuo": "individuo 0956",
+    "ruta_original": "individuo 0956\\img01_ind_cm0956.jpg",
+    "modelo": "refuerzo",
+    "ancho": 2283,
+    "alto": 3496,
+    "cajas": [
+      [
+        0.0,
+        118.37494659423828,
+        2283.0,
+        3484.07568359375
+      ]
+    ],
+    "confianzas": [
+      0.8057787418365479
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "43",
+    "individuo": "individuo 0660",
+    "ruta_original": "individuo 0660\\img22_ind_cm0660.jpg",
+    "modelo": "piloto",
+    "ancho": 3456,
+    "alto": 4608,
+    "cajas": [
+      [
+        0.0,
+        1499.384521484375,
+        3456.0,
+        4608.0
+      ]
+    ],
+    "confianzas": [
+      0.6685016751289368
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "43",
+    "individuo": "individuo 0660",
+    "ruta_original": "individuo 0660\\img22_ind_cm0660.jpg",
+    "modelo": "refuerzo",
+    "ancho": 3456,
+    "alto": 4608,
+    "cajas": [
+      [
+        48.79731369018555,
+        1597.206787109375,
+        3456.0,
+        4608.0
+      ]
+    ],
+    "confianzas": [
+      0.3573722541332245
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "44",
+    "individuo": "individuo 0297",
+    "ruta_original": "individuo 0297\\img02_ind_cm0297.jpg",
+    "modelo": "piloto",
+    "ancho": 1906,
+    "alto": 2983,
+    "cajas": [
+      [
+        0.0,
+        30.016164779663086,
+        1906.0,
+        2974.121337890625
+      ]
+    ],
+    "confianzas": [
+      0.8764085173606873
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "44",
+    "individuo": "individuo 0297",
+    "ruta_original": "individuo 0297\\img02_ind_cm0297.jpg",
+    "modelo": "refuerzo",
+    "ancho": 1906,
+    "alto": 2983,
+    "cajas": [
+      [
+        0.0,
+        7.074190139770508,
+        1906.0,
+        2975.566650390625
+      ]
+    ],
+    "confianzas": [
+      0.9297373294830322
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "45",
+    "individuo": "individuo 0017",
+    "ruta_original": "individuo 0017\\img02_ind_cm0017.jpg",
+    "modelo": "piloto",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        1422.1722412109375,
+        385.1622009277344,
+        3622.234375,
+        3276.0634765625
+      ],
+      [
+        3807.223876953125,
+        1.253759741783142,
+        4606.93896484375,
+        1425.985107421875
+      ]
+    ],
+    "confianzas": [
+      0.8354379534721375,
+      0.49432528018951416
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "45",
+    "individuo": "individuo 0017",
+    "ruta_original": "individuo 0017\\img02_ind_cm0017.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        1485.8209228515625,
+        485.90899658203125,
+        3628.546630859375,
+        3340.193359375
+      ]
+    ],
+    "confianzas": [
+      0.8784516453742981
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "46",
+    "individuo": "individuo 0216",
+    "ruta_original": "individuo 0216\\img03_ind_cm0216.jpg",
+    "modelo": "piloto",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        1455.406494140625,
+        671.7398681640625,
+        3255.49658203125,
+        2582.185791015625
+      ],
+      [
+        3597.7802734375,
+        0.0,
+        4608.0,
+        1725.9896240234375
+      ]
+    ],
+    "confianzas": [
+      0.8822401165962219,
+      0.3856758177280426
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "46",
+    "individuo": "individuo 0216",
+    "ruta_original": "individuo 0216\\img03_ind_cm0216.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        1521.6483154296875,
+        585.3682250976562,
+        3253.97607421875,
+        2560.997314453125
+      ]
+    ],
+    "confianzas": [
+      0.7613556981086731
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "47",
+    "individuo": "individuo 0691",
+    "ruta_original": "individuo 0691\\img04_ind_cm0691.jpg",
+    "modelo": "piloto",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        1560.2681884765625,
+        163.3168182373047,
+        3804.021240234375,
+        3044.30908203125
+      ]
+    ],
+    "confianzas": [
+      0.787583589553833
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "47",
+    "individuo": "individuo 0691",
+    "ruta_original": "individuo 0691\\img04_ind_cm0691.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        1608.6575927734375,
+        273.8893737792969,
+        3803.44189453125,
+        3163.10302734375
+      ]
+    ],
+    "confianzas": [
+      0.8539600968360901
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "48",
+    "individuo": "individuo 0626",
+    "ruta_original": "individuo 0626\\img02_ind_cm0626.jpg",
+    "modelo": "piloto",
+    "ancho": 4000,
+    "alto": 3000,
+    "cajas": [
+      [
+        1292.3094482421875,
+        732.5504760742188,
+        3045.126708984375,
+        2980.554931640625
+      ]
+    ],
+    "confianzas": [
+      0.8106046319007874
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "48",
+    "individuo": "individuo 0626",
+    "ruta_original": "individuo 0626\\img02_ind_cm0626.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4000,
+    "alto": 3000,
+    "cajas": [
+      [
+        1326.7982177734375,
+        686.4883422851562,
+        3004.966064453125,
+        2948.794189453125
+      ]
+    ],
+    "confianzas": [
+      0.7818494439125061
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "49",
+    "individuo": "individuo 0833",
+    "ruta_original": "individuo 0833\\img03_ind_cm0833.jpg",
+    "modelo": "piloto",
+    "ancho": 4000,
+    "alto": 3000,
+    "cajas": [
+      [
+        898.737060546875,
+        80.62725067138672,
+        3434.3388671875,
+        3000.0
+      ]
+    ],
+    "confianzas": [
+      0.8113135695457458
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "49",
+    "individuo": "individuo 0833",
+    "ruta_original": "individuo 0833\\img03_ind_cm0833.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4000,
+    "alto": 3000,
+    "cajas": [
+      [
+        896.902099609375,
+        93.1314468383789,
+        3642.520263671875,
+        2982.19873046875
+      ]
+    ],
+    "confianzas": [
+      0.8816719651222229
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "50",
+    "individuo": "individuo 0170",
+    "ruta_original": "individuo 0170\\img02_ind_cm0170.jpg",
+    "modelo": "piloto",
+    "ancho": 2515,
+    "alto": 3679,
+    "cajas": [
+      [
+        0.0,
+        218.47886657714844,
+        2515.0,
+        3662.699951171875
+      ]
+    ],
+    "confianzas": [
+      0.8490756154060364
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "50",
+    "individuo": "individuo 0170",
+    "ruta_original": "individuo 0170\\img02_ind_cm0170.jpg",
+    "modelo": "refuerzo",
+    "ancho": 2515,
+    "alto": 3679,
+    "cajas": [
+      [
+        3.442255973815918,
+        200.06765747070312,
+        2515.0,
+        3675.23388671875
+      ]
+    ],
+    "confianzas": [
+      0.9146292209625244
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "51",
+    "individuo": "individuo 0560",
+    "ruta_original": "individuo 0560\\img01_ind_cm0560.jpg",
+    "modelo": "piloto",
+    "ancho": 4000,
+    "alto": 3000,
+    "cajas": [
+      [
+        1236.859619140625,
+        832.2341918945312,
+        2741.156494140625,
+        2670.332275390625
+      ],
+      [
+        2893.173583984375,
+        322.8601379394531,
+        4000.0,
+        1605.029541015625
+      ]
+    ],
+    "confianzas": [
+      0.8996230363845825,
+      0.6440694332122803
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "51",
+    "individuo": "individuo 0560",
+    "ruta_original": "individuo 0560\\img01_ind_cm0560.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4000,
+    "alto": 3000,
+    "cajas": [
+      [
+        1316.27978515625,
+        823.0621337890625,
+        2690.59765625,
+        2680.529541015625
+      ]
+    ],
+    "confianzas": [
+      0.7643170952796936
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "52",
+    "individuo": "individuo 0757",
+    "ruta_original": "individuo 0757\\img05_ind_cm0757.jpg",
+    "modelo": "piloto",
+    "ancho": 3000,
+    "alto": 4000,
+    "cajas": [
+      [
+        236.00807189941406,
+        1009.5436401367188,
+        2433.82470703125,
+        3914.830078125
+      ]
+    ],
+    "confianzas": [
+      0.8389613032341003
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "52",
+    "individuo": "individuo 0757",
+    "ruta_original": "individuo 0757\\img05_ind_cm0757.jpg",
+    "modelo": "refuerzo",
+    "ancho": 3000,
+    "alto": 4000,
+    "cajas": [
+      [
+        396.3901672363281,
+        1089.303955078125,
+        2456.37939453125,
+        3899.88671875
+      ],
+      [
+        267.12664794921875,
+        7.3383331298828125,
+        2921.80859375,
+        1149.3961181640625
+      ]
+    ],
+    "confianzas": [
+      0.8992369174957275,
+      0.2874374985694885
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "53",
+    "individuo": "individuo 0423",
+    "ruta_original": "individuo 0423\\img01_ind_cm0423.jpg",
+    "modelo": "piloto",
+    "ancho": 3000,
+    "alto": 4000,
+    "cajas": [
+      [
+        195.8662109375,
+        843.2464599609375,
+        2396.322021484375,
+        3676.0576171875
+      ]
+    ],
+    "confianzas": [
+      0.8149533271789551
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "53",
+    "individuo": "individuo 0423",
+    "ruta_original": "individuo 0423\\img01_ind_cm0423.jpg",
+    "modelo": "refuerzo",
+    "ancho": 3000,
+    "alto": 4000,
+    "cajas": [
+      [
+        177.0814971923828,
+        728.607177734375,
+        2518.666259765625,
+        3675.039794921875
+      ]
+    ],
+    "confianzas": [
+      0.8822706341743469
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "54",
+    "individuo": "individuo 0477",
+    "ruta_original": "individuo 0477\\img01_ind_cm0477.jpg",
+    "modelo": "piloto",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        936.6060791015625,
+        242.66226196289062,
+        3382.13427734375,
+        3080.55224609375
+      ]
+    ],
+    "confianzas": [
+      0.7896896004676819
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "54",
+    "individuo": "individuo 0477",
+    "ruta_original": "individuo 0477\\img01_ind_cm0477.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        959.5792236328125,
+        304.46014404296875,
+        3430.375,
+        3128.49267578125
+      ]
+    ],
+    "confianzas": [
+      0.8181021213531494
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "55",
+    "individuo": "individuo 0319",
+    "ruta_original": "individuo 0319\\img02_ind_cm0319.jpg",
+    "modelo": "piloto",
+    "ancho": 1724,
+    "alto": 2547,
+    "cajas": [
+      [
+        0.0,
+        50.34678649902344,
+        1724.0,
+        2547.0
+      ]
+    ],
+    "confianzas": [
+      0.8689974546432495
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "55",
+    "individuo": "individuo 0319",
+    "ruta_original": "individuo 0319\\img02_ind_cm0319.jpg",
+    "modelo": "refuerzo",
+    "ancho": 1724,
+    "alto": 2547,
+    "cajas": [
+      [
+        0.0,
+        0.0,
+        1724.0,
+        2547.0
+      ]
+    ],
+    "confianzas": [
+      0.9316571950912476
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "56",
+    "individuo": "individuo 0338",
+    "ruta_original": "individuo 0338\\img01_ind_cm0338.jpg",
+    "modelo": "piloto",
+    "ancho": 1669,
+    "alto": 2739,
+    "cajas": [
+      [
+        0.0,
+        110.0535888671875,
+        1648.9852294921875,
+        2739.0
+      ]
+    ],
+    "confianzas": [
+      0.7880792617797852
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "56",
+    "individuo": "individuo 0338",
+    "ruta_original": "individuo 0338\\img01_ind_cm0338.jpg",
+    "modelo": "refuerzo",
+    "ancho": 1669,
+    "alto": 2739,
+    "cajas": [
+      [
+        0.0,
+        309.9059143066406,
+        1669.0,
+        2732.9111328125
+      ]
+    ],
+    "confianzas": [
+      0.6054131984710693
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "57",
+    "individuo": "individuo 0077",
+    "ruta_original": "individuo 0077\\img01_ind_cm0077.jpg",
+    "modelo": "piloto",
+    "ancho": 1722,
+    "alto": 2047,
+    "cajas": [
+      [
+        50.757232666015625,
+        30.984472274780273,
+        1693.4971923828125,
+        2046.6563720703125
+      ]
+    ],
+    "confianzas": [
+      0.9186827540397644
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "57",
+    "individuo": "individuo 0077",
+    "ruta_original": "individuo 0077\\img01_ind_cm0077.jpg",
+    "modelo": "refuerzo",
+    "ancho": 1722,
+    "alto": 2047,
+    "cajas": [
+      [
+        15.053583145141602,
+        61.66108703613281,
+        1707.3592529296875,
+        2037.3692626953125
+      ]
+    ],
+    "confianzas": [
+      0.921557605266571
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "58",
+    "individuo": "individuo 0812",
+    "ruta_original": "individuo 0812\\img08_ind_cm0812.jpg",
+    "modelo": "piloto",
+    "ancho": 640,
+    "alto": 480,
+    "cajas": [
+      [
+        146.6357421875,
+        22.457763671875,
+        481.7564697265625,
+        477.86871337890625
+      ]
+    ],
+    "confianzas": [
+      0.8470978140830994
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "58",
+    "individuo": "individuo 0812",
+    "ruta_original": "individuo 0812\\img08_ind_cm0812.jpg",
+    "modelo": "refuerzo",
+    "ancho": 640,
+    "alto": 480,
+    "cajas": [
+      [
+        158.68414306640625,
+        28.76031494140625,
+        494.08026123046875,
+        479.51983642578125
+      ]
+    ],
+    "confianzas": [
+      0.9200425744056702
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "59",
+    "individuo": "individuo 0027",
+    "ruta_original": "individuo 0027\\img01_ind_cm0027.jpg",
+    "modelo": "piloto",
+    "ancho": 1831,
+    "alto": 2691,
+    "cajas": [
+      [
+        0.0,
+        47.36971664428711,
+        1831.0,
+        2687.536865234375
+      ]
+    ],
+    "confianzas": [
+      0.8796026110649109
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "59",
+    "individuo": "individuo 0027",
+    "ruta_original": "individuo 0027\\img01_ind_cm0027.jpg",
+    "modelo": "refuerzo",
+    "ancho": 1831,
+    "alto": 2691,
+    "cajas": [
+      [
+        3.860156774520874,
+        34.46873474121094,
+        1831.0,
+        2683.360107421875
+      ]
+    ],
+    "confianzas": [
+      0.9061680436134338
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "60",
+    "individuo": "individuo 0861",
+    "ruta_original": "individuo 0861\\img04_ind_cm0861.jpg",
+    "modelo": "piloto",
+    "ancho": 4000,
+    "alto": 3000,
+    "cajas": [
+      [
+        1389.706787109375,
+        392.7356872558594,
+        3171.1552734375,
+        2873.990234375
+      ],
+      [
+        3171.19677734375,
+        0.0701904296875,
+        4000.0,
+        1427.5665283203125
+      ]
+    ],
+    "confianzas": [
+      0.8495773673057556,
+      0.4376228153705597
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "60",
+    "individuo": "individuo 0861",
+    "ruta_original": "individuo 0861\\img04_ind_cm0861.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4000,
+    "alto": 3000,
+    "cajas": [
+      [
+        1432.4410400390625,
+        440.4472351074219,
+        3227.5322265625,
+        2897.251220703125
+      ]
+    ],
+    "confianzas": [
+      0.8737607002258301
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "61",
+    "individuo": "individuo 1010",
+    "ruta_original": "individuo 1010\\img01_ind_cm1010.jpg",
+    "modelo": "piloto",
+    "ancho": 2759,
+    "alto": 3784,
+    "cajas": [
+      [
+        0.0,
+        322.40087890625,
+        2759.0,
+        3784.0
+      ]
+    ],
+    "confianzas": [
+      0.8427164554595947
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "61",
+    "individuo": "individuo 1010",
+    "ruta_original": "individuo 1010\\img01_ind_cm1010.jpg",
+    "modelo": "refuerzo",
+    "ancho": 2759,
+    "alto": 3784,
+    "cajas": [
+      [
+        0.0,
+        236.5963592529297,
+        2726.158203125,
+        3771.550048828125
+      ]
+    ],
+    "confianzas": [
+      0.8301519155502319
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "62",
+    "individuo": "individuo 0568",
+    "ruta_original": "individuo 0568\\img01_ind_cm0568.jpg",
+    "modelo": "piloto",
+    "ancho": 4000,
+    "alto": 3000,
+    "cajas": [
+      [
+        1380.755859375,
+        928.8502197265625,
+        2978.407958984375,
+        2896.444091796875
+      ],
+      [
+        0.24614334106445312,
+        0.0,
+        1203.4095458984375,
+        1266.302001953125
+      ]
+    ],
+    "confianzas": [
+      0.8692318201065063,
+      0.3394090235233307
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "62",
+    "individuo": "individuo 0568",
+    "ruta_original": "individuo 0568\\img01_ind_cm0568.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4000,
+    "alto": 3000,
+    "cajas": [
+      [
+        1453.5850830078125,
+        842.3209228515625,
+        2986.66796875,
+        2911.613525390625
+      ]
+    ],
+    "confianzas": [
+      0.8438078165054321
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "63",
+    "individuo": "individuo 0083",
+    "ruta_original": "individuo 0083\\img01_ind_cm0083.jpg",
+    "modelo": "piloto",
+    "ancho": 2254,
+    "alto": 3344,
+    "cajas": [
+      [
+        0.0,
+        53.341304779052734,
+        2254.0,
+        3336.98974609375
+      ]
+    ],
+    "confianzas": [
+      0.7929448485374451
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "63",
+    "individuo": "individuo 0083",
+    "ruta_original": "individuo 0083\\img01_ind_cm0083.jpg",
+    "modelo": "refuerzo",
+    "ancho": 2254,
+    "alto": 3344,
+    "cajas": [
+      [
+        0.0,
+        15.240008354187012,
+        2248.737060546875,
+        3344.0
+      ]
+    ],
+    "confianzas": [
+      0.8883585333824158
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "64",
+    "individuo": "individuo 0067",
+    "ruta_original": "individuo 0067\\img04_ind_cm0067.jpg",
+    "modelo": "piloto",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        1364.5445556640625,
+        0.5495361089706421,
+        3845.21240234375,
+        3175.07080078125
+      ],
+      [
+        1.4693114757537842,
+        258.8330383300781,
+        793.3358764648438,
+        1806.6334228515625
+      ]
+    ],
+    "confianzas": [
+      0.8046568632125854,
+      0.28488293290138245
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "64",
+    "individuo": "individuo 0067",
+    "ruta_original": "individuo 0067\\img04_ind_cm0067.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        1409.2645263671875,
+        81.59589385986328,
+        3890.522216796875,
+        3149.19189453125
+      ]
+    ],
+    "confianzas": [
+      0.9140005111694336
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "65",
+    "individuo": "individuo 0981",
+    "ruta_original": "individuo 0981\\img04_ind_cm0981.jpg",
+    "modelo": "piloto",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        2005.8525390625,
+        484.1199951171875,
+        3647.456787109375,
+        2570.654296875
+      ]
+    ],
+    "confianzas": [
+      0.8453900814056396
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "65",
+    "individuo": "individuo 0981",
+    "ruta_original": "individuo 0981\\img04_ind_cm0981.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        1998.9671630859375,
+        450.3625183105469,
+        3688.51708984375,
+        2590.9658203125
+      ]
+    ],
+    "confianzas": [
+      0.7092828750610352
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "66",
+    "individuo": "individuo 0564",
+    "ruta_original": "individuo 0564\\img03_ind_cm0564.jpg",
+    "modelo": "piloto",
+    "ancho": 640,
+    "alto": 480,
+    "cajas": [
+      [
+        189.78948974609375,
+        130.891357421875,
+        441.6844482421875,
+        415.52105712890625
+      ],
+      [
+        144.9265594482422,
+        0.0,
+        534.7357788085938,
+        76.07881927490234
+      ],
+      [
+        466.6952209472656,
+        105.00576782226562,
+        640.0,
+        293.7751770019531
+      ],
+      [
+        150.02883911132812,
+        0.9512786865234375,
+        465.5561828613281,
+        66.34368896484375
+      ]
+    ],
+    "confianzas": [
+      0.8925793766975403,
+      0.3174394965171814,
+      0.2874869704246521,
+      0.27211371064186096
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "66",
+    "individuo": "individuo 0564",
+    "ruta_original": "individuo 0564\\img03_ind_cm0564.jpg",
+    "modelo": "refuerzo",
+    "ancho": 640,
+    "alto": 480,
+    "cajas": [
+      [
+        182.56422424316406,
+        131.0821533203125,
+        443.4835205078125,
+        415.5458984375
+      ]
+    ],
+    "confianzas": [
+      0.8689722418785095
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "67",
+    "individuo": "individuo 0090",
+    "ruta_original": "individuo 0090\\img01_ind_cm0090.jpg",
+    "modelo": "piloto",
+    "ancho": 2409,
+    "alto": 3462,
+    "cajas": [
+      [
+        0.0,
+        25.996299743652344,
+        2399.310302734375,
+        3451.74462890625
+      ]
+    ],
+    "confianzas": [
+      0.7923514246940613
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "67",
+    "individuo": "individuo 0090",
+    "ruta_original": "individuo 0090\\img01_ind_cm0090.jpg",
+    "modelo": "refuerzo",
+    "ancho": 2409,
+    "alto": 3462,
+    "cajas": [
+      [
+        0.0,
+        1.250653862953186,
+        2390.34326171875,
+        3454.986083984375
+      ]
+    ],
+    "confianzas": [
+      0.9366868734359741
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "68",
+    "individuo": "individuo 0902",
+    "ruta_original": "individuo 0902\\img03_ind_cm0902.jpg",
+    "modelo": "piloto",
+    "ancho": 4000,
+    "alto": 3000,
+    "cajas": [
+      [
+        1083.3763427734375,
+        194.98463439941406,
+        2840.512451171875,
+        2311.98193359375
+      ],
+      [
+        3000.76611328125,
+        0.0,
+        4000.0,
+        1575.913330078125
+      ]
+    ],
+    "confianzas": [
+      0.85026615858078,
+      0.7589694261550903
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "68",
+    "individuo": "individuo 0902",
+    "ruta_original": "individuo 0902\\img03_ind_cm0902.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4000,
+    "alto": 3000,
+    "cajas": [
+      [
+        1078.7518310546875,
+        100.69618225097656,
+        2887.065185546875,
+        2395.7099609375
+      ]
+    ],
+    "confianzas": [
+      0.8930270671844482
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "69",
+    "individuo": "individuo 0230",
+    "ruta_original": "individuo 0230\\img01_ind_cm0230.jpg",
+    "modelo": "piloto",
+    "ancho": 2231,
+    "alto": 2698,
+    "cajas": [
+      [
+        0.0,
+        0.0,
+        2218.77197265625,
+        2698.0
+      ]
+    ],
+    "confianzas": [
+      0.9519229531288147
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "69",
+    "individuo": "individuo 0230",
+    "ruta_original": "individuo 0230\\img01_ind_cm0230.jpg",
+    "modelo": "refuerzo",
+    "ancho": 2231,
+    "alto": 2698,
+    "cajas": [
+      [
+        0.0,
+        3.562594175338745,
+        2231.0,
+        2698.0
+      ]
+    ],
+    "confianzas": [
+      0.9535592794418335
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "70",
+    "individuo": "individuo 0784",
+    "ruta_original": "individuo 0784\\img02_ind_cm0784.jpg",
+    "modelo": "piloto",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        1305.6771240234375,
+        242.76971435546875,
+        3466.15380859375,
+        2722.707763671875
+      ],
+      [
+        3389.235107421875,
+        0.6310546398162842,
+        4603.09521484375,
+        689.6963500976562
+      ]
+    ],
+    "confianzas": [
+      0.849810004234314,
+      0.5841639041900635
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "70",
+    "individuo": "individuo 0784",
+    "ruta_original": "individuo 0784\\img02_ind_cm0784.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        1301.2008056640625,
+        292.0482177734375,
+        3507.992431640625,
+        2798.32470703125
+      ]
+    ],
+    "confianzas": [
+      0.8834820985794067
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "71",
+    "individuo": "individuo 0658",
+    "ruta_original": "individuo 0658\\img21_ind_cm0658.jpg",
+    "modelo": "piloto",
+    "ancho": 640,
+    "alto": 480,
+    "cajas": [
+      [
+        151.14825439453125,
+        24.356597900390625,
+        542.63427734375,
+        478.96197509765625
+      ]
+    ],
+    "confianzas": [
+      0.8427460193634033
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "71",
+    "individuo": "individuo 0658",
+    "ruta_original": "individuo 0658\\img21_ind_cm0658.jpg",
+    "modelo": "refuerzo",
+    "ancho": 640,
+    "alto": 480,
+    "cajas": [
+      [
+        137.9654541015625,
+        29.3006591796875,
+        542.5912475585938,
+        478.1119384765625
+      ]
+    ],
+    "confianzas": [
+      0.8355504274368286
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "72",
+    "individuo": "individuo 0711",
+    "ruta_original": "individuo 0711\\img07_ind_cm0711.jpg",
+    "modelo": "piloto",
+    "ancho": 640,
+    "alto": 480,
+    "cajas": [
+      [
+        141.4307861328125,
+        21.20220947265625,
+        511.298828125,
+        451.40240478515625
+      ],
+      [
+        0.0,
+        0.0,
+        196.51010131835938,
+        480.0
+      ]
+    ],
+    "confianzas": [
+      0.7926157116889954,
+      0.3259701728820801
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "72",
+    "individuo": "individuo 0711",
+    "ruta_original": "individuo 0711\\img07_ind_cm0711.jpg",
+    "modelo": "refuerzo",
+    "ancho": 640,
+    "alto": 480,
+    "cajas": [
+      [
+        152.46426391601562,
+        30.02557373046875,
+        510.7657775878906,
+        454.3724365234375
+      ]
+    ],
+    "confianzas": [
+      0.8584031462669373
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "73",
+    "individuo": "individuo 0084",
+    "ruta_original": "individuo 0084\\img02_ind_cm0084.jpg",
+    "modelo": "piloto",
+    "ancho": 1078,
+    "alto": 1506,
+    "cajas": [
+      [
+        0.0,
+        110.48053741455078,
+        1078.0,
+        1506.0
+      ]
+    ],
+    "confianzas": [
+      0.905951201915741
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "73",
+    "individuo": "individuo 0084",
+    "ruta_original": "individuo 0084\\img02_ind_cm0084.jpg",
+    "modelo": "refuerzo",
+    "ancho": 1078,
+    "alto": 1506,
+    "cajas": [
+      [
+        0.0,
+        124.85550689697266,
+        1070.80224609375,
+        1498.697021484375
+      ]
+    ],
+    "confianzas": [
+      0.8780872225761414
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "74",
+    "individuo": "individuo 0224",
+    "ruta_original": "individuo 0224\\img01_ind_cm0224.jpg",
+    "modelo": "piloto",
+    "ancho": 1596,
+    "alto": 2246,
+    "cajas": [
+      [
+        0.0,
+        263.1853332519531,
+        1555.6484375,
+        2243.14013671875
+      ]
+    ],
+    "confianzas": [
+      0.8470768332481384
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "74",
+    "individuo": "individuo 0224",
+    "ruta_original": "individuo 0224\\img01_ind_cm0224.jpg",
+    "modelo": "refuerzo",
+    "ancho": 1596,
+    "alto": 2246,
+    "cajas": [
+      [
+        3.0271143913269043,
+        302.9029235839844,
+        1590.99755859375,
+        2237.59326171875
+      ]
+    ],
+    "confianzas": [
+      0.8168734312057495
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "75",
+    "individuo": "individuo 0004",
+    "ruta_original": "individuo 0004\\img02_ind_cm0004.jpg",
+    "modelo": "piloto",
+    "ancho": 2425,
+    "alto": 3646,
+    "cajas": [
+      [
+        0.0,
+        349.50836181640625,
+        2416.810546875,
+        3646.0
+      ]
+    ],
+    "confianzas": [
+      0.8463076949119568
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "75",
+    "individuo": "individuo 0004",
+    "ruta_original": "individuo 0004\\img02_ind_cm0004.jpg",
+    "modelo": "refuerzo",
+    "ancho": 2425,
+    "alto": 3646,
+    "cajas": [
+      [
+        0.0,
+        295.3758850097656,
+        2425.0,
+        3640.768310546875
+      ]
+    ],
+    "confianzas": [
+      0.8769152164459229
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "76",
+    "individuo": "individuo 0763",
+    "ruta_original": "individuo 0763\\img15_ind_cm0763.jpg",
+    "modelo": "piloto",
+    "ancho": 3000,
+    "alto": 4000,
+    "cajas": [
+      [
+        127.09541320800781,
+        869.558349609375,
+        2975.52294921875,
+        3027.245849609375
+      ]
+    ],
+    "confianzas": [
+      0.8038471341133118
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "76",
+    "individuo": "individuo 0763",
+    "ruta_original": "individuo 0763\\img15_ind_cm0763.jpg",
+    "modelo": "refuerzo",
+    "ancho": 3000,
+    "alto": 4000,
+    "cajas": [
+      [
+        199.5019989013672,
+        781.9990234375,
+        3000.0,
+        3043.749755859375
+      ]
+    ],
+    "confianzas": [
+      0.8488225936889648
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "77",
+    "individuo": "individuo 0402",
+    "ruta_original": "individuo 0402\\img09_ind_cm0402.jpg",
+    "modelo": "piloto",
+    "ancho": 640,
+    "alto": 480,
+    "cajas": [
+      [
+        245.0205078125,
+        157.45269775390625,
+        511.2381591796875,
+        423.78167724609375
+      ]
+    ],
+    "confianzas": [
+      0.8790539503097534
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "77",
+    "individuo": "individuo 0402",
+    "ruta_original": "individuo 0402\\img09_ind_cm0402.jpg",
+    "modelo": "refuerzo",
+    "ancho": 640,
+    "alto": 480,
+    "cajas": [
+      [
+        244.80833435058594,
+        163.52713012695312,
+        510.0164794921875,
+        435.0022277832031
+      ]
+    ],
+    "confianzas": [
+      0.6299166679382324
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "78",
+    "individuo": "individuo 0419",
+    "ruta_original": "individuo 0419\\img08_ind_cm0419.jpg",
+    "modelo": "piloto",
+    "ancho": 4000,
+    "alto": 3000,
+    "cajas": [
+      [
+        762.73193359375,
+        0.0,
+        3987.520751953125,
+        3000.0
+      ]
+    ],
+    "confianzas": [
+      0.9061073660850525
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "78",
+    "individuo": "individuo 0419",
+    "ruta_original": "individuo 0419\\img08_ind_cm0419.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4000,
+    "alto": 3000,
+    "cajas": [
+      [
+        792.97021484375,
+        21.084213256835938,
+        3594.1650390625,
+        2973.593017578125
+      ]
+    ],
+    "confianzas": [
+      0.897118866443634
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "79",
+    "individuo": "individuo 0774",
+    "ruta_original": "individuo 0774\\img03_ind_cm0774.jpg",
+    "modelo": "piloto",
+    "ancho": 3000,
+    "alto": 4000,
+    "cajas": [
+      [
+        173.2738494873047,
+        593.9434204101562,
+        2690.626220703125,
+        3975.55322265625
+      ]
+    ],
+    "confianzas": [
+      0.7748512625694275
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "79",
+    "individuo": "individuo 0774",
+    "ruta_original": "individuo 0774\\img03_ind_cm0774.jpg",
+    "modelo": "refuerzo",
+    "ancho": 3000,
+    "alto": 4000,
+    "cajas": [
+      [
+        205.33905029296875,
+        580.1605224609375,
+        2797.779541015625,
+        3916.1728515625
+      ]
+    ],
+    "confianzas": [
+      0.8738019466400146
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "80",
+    "individuo": "individuo 0409",
+    "ruta_original": "individuo 0409\\img01_ind_cm0409.jpg",
+    "modelo": "piloto",
+    "ancho": 480,
+    "alto": 640,
+    "cajas": [],
+    "confianzas": [],
+    "indice_elegido": null
+  },
+  {
+    "grupo": "nueva",
+    "numero": "80",
+    "individuo": "individuo 0409",
+    "ruta_original": "individuo 0409\\img01_ind_cm0409.jpg",
+    "modelo": "refuerzo",
+    "ancho": 480,
+    "alto": 640,
+    "cajas": [],
+    "confianzas": [],
+    "indice_elegido": null
+  },
+  {
+    "grupo": "nueva",
+    "numero": "81",
+    "individuo": "individuo 0350",
+    "ruta_original": "individuo 0350\\img05_ind_cm0350.jpg",
+    "modelo": "piloto",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        1259.21240234375,
+        646.9951782226562,
+        4525.12890625,
+        2738.890869140625
+      ]
+    ],
+    "confianzas": [
+      0.7534441947937012
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "81",
+    "individuo": "individuo 0350",
+    "ruta_original": "individuo 0350\\img05_ind_cm0350.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        1236.3125,
+        461.38311767578125,
+        4493.06396484375,
+        2755.878173828125
+      ]
+    ],
+    "confianzas": [
+      0.6961120963096619
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "82",
+    "individuo": "individuo 0394",
+    "ruta_original": "individuo 0394\\img03_ind_cm0394.jpg",
+    "modelo": "piloto",
+    "ancho": 480,
+    "alto": 640,
+    "cajas": [
+      [
+        99.79509735107422,
+        292.6015625,
+        310.9356689453125,
+        516.0728759765625
+      ]
+    ],
+    "confianzas": [
+      0.3826921582221985
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "82",
+    "individuo": "individuo 0394",
+    "ruta_original": "individuo 0394\\img03_ind_cm0394.jpg",
+    "modelo": "refuerzo",
+    "ancho": 480,
+    "alto": 640,
+    "cajas": [
+      [
+        110.1470718383789,
+        290.26275634765625,
+        303.0545959472656,
+        519.9683227539062
+      ]
+    ],
+    "confianzas": [
+      0.2588365077972412
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "83",
+    "individuo": "individuo 0208",
+    "ruta_original": "individuo 0208\\img01_ind_cm0208.jpg",
+    "modelo": "piloto",
+    "ancho": 1071,
+    "alto": 1465,
+    "cajas": [
+      [
+        0.0,
+        43.929771423339844,
+        1071.0,
+        1449.8638916015625
+      ]
+    ],
+    "confianzas": [
+      0.9076541066169739
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "83",
+    "individuo": "individuo 0208",
+    "ruta_original": "individuo 0208\\img01_ind_cm0208.jpg",
+    "modelo": "refuerzo",
+    "ancho": 1071,
+    "alto": 1465,
+    "cajas": [
+      [
+        39.03386688232422,
+        23.766767501831055,
+        1065.0916748046875,
+        1454.8868408203125
+      ]
+    ],
+    "confianzas": [
+      0.9320582151412964
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "84",
+    "individuo": "individuo 0023",
+    "ruta_original": "individuo 0023\\img01_ind_cm0023.jpg",
+    "modelo": "piloto",
+    "ancho": 410,
+    "alto": 577,
+    "cajas": [
+      [
+        0.0,
+        28.21878433227539,
+        407.2556457519531,
+        576.1702270507812
+      ]
+    ],
+    "confianzas": [
+      0.9278569221496582
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "84",
+    "individuo": "individuo 0023",
+    "ruta_original": "individuo 0023\\img01_ind_cm0023.jpg",
+    "modelo": "refuerzo",
+    "ancho": 410,
+    "alto": 577,
+    "cajas": [
+      [
+        7.517349720001221,
+        14.568400382995605,
+        406.06634521484375,
+        574.3429565429688
+      ]
+    ],
+    "confianzas": [
+      0.9013292193412781
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "85",
+    "individuo": "individuo 0032",
+    "ruta_original": "individuo 0032\\img03_ind_cm0032.jpg",
+    "modelo": "piloto",
+    "ancho": 2304,
+    "alto": 2955,
+    "cajas": [
+      [
+        7.701747417449951,
+        29.45429801940918,
+        2262.560791015625,
+        2949.505859375
+      ]
+    ],
+    "confianzas": [
+      0.9369892477989197
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "85",
+    "individuo": "individuo 0032",
+    "ruta_original": "individuo 0032\\img03_ind_cm0032.jpg",
+    "modelo": "refuerzo",
+    "ancho": 2304,
+    "alto": 2955,
+    "cajas": [
+      [
+        45.484256744384766,
+        6.300724983215332,
+        2280.99072265625,
+        2937.568359375
+      ]
+    ],
+    "confianzas": [
+      0.9326134324073792
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "86",
+    "individuo": "individuo 1028",
+    "ruta_original": "individuo 1028\\img05_ind_cm1028.jpg",
+    "modelo": "piloto",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        1252.868896484375,
+        208.07797241210938,
+        3864.6845703125,
+        3445.14404296875
+      ]
+    ],
+    "confianzas": [
+      0.7890380024909973
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "86",
+    "individuo": "individuo 1028",
+    "ruta_original": "individuo 1028\\img05_ind_cm1028.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        1359.9788818359375,
+        272.0023498535156,
+        3835.428955078125,
+        3400.987060546875
+      ]
+    ],
+    "confianzas": [
+      0.8989472389221191
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "87",
+    "individuo": "individuo 0715",
+    "ruta_original": "individuo 0715\\img03_ind_cm0715.jpg",
+    "modelo": "piloto",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        1600.230712890625,
+        655.446044921875,
+        3266.148681640625,
+        2788.169189453125
+      ],
+      [
+        3352.44482421875,
+        159.3628387451172,
+        4608.0,
+        3425.64990234375
+      ]
+    ],
+    "confianzas": [
+      0.8463244438171387,
+      0.2900930345058441
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "87",
+    "individuo": "individuo 0715",
+    "ruta_original": "individuo 0715\\img03_ind_cm0715.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        1653.862060546875,
+        662.2426147460938,
+        3303.06787109375,
+        2756.078857421875
+      ]
+    ],
+    "confianzas": [
+      0.4760046899318695
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "88",
+    "individuo": "individuo 0476",
+    "ruta_original": "individuo 0476\\img01_ind_cm0476.jpg",
+    "modelo": "piloto",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        1525.3026123046875,
+        621.2403564453125,
+        3484.781005859375,
+        3014.97705078125
+      ]
+    ],
+    "confianzas": [
+      0.9174254536628723
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "88",
+    "individuo": "individuo 0476",
+    "ruta_original": "individuo 0476\\img01_ind_cm0476.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        1560.6036376953125,
+        607.8128662109375,
+        3498.691162109375,
+        3026.15576171875
+      ]
+    ],
+    "confianzas": [
+      0.8731839060783386
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "89",
+    "individuo": "individuo 0978",
+    "ruta_original": "individuo 0978\\img02_ind_cm0978.jpg",
+    "modelo": "piloto",
+    "ancho": 1270,
+    "alto": 1561,
+    "cajas": [
+      [
+        0.0,
+        65.47105407714844,
+        1266.217041015625,
+        1555.47119140625
+      ]
+    ],
+    "confianzas": [
+      0.9379640221595764
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "89",
+    "individuo": "individuo 0978",
+    "ruta_original": "individuo 0978\\img02_ind_cm0978.jpg",
+    "modelo": "refuerzo",
+    "ancho": 1270,
+    "alto": 1561,
+    "cajas": [
+      [
+        0.0,
+        64.757080078125,
+        1270.0,
+        1550.3431396484375
+      ]
+    ],
+    "confianzas": [
+      0.8233162760734558
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "90",
+    "individuo": "individuo 0994",
+    "ruta_original": "individuo 0994\\img01_ind_cm0994.jpg",
+    "modelo": "piloto",
+    "ancho": 1752,
+    "alto": 2477,
+    "cajas": [
+      [
+        0.0,
+        81.11356353759766,
+        1737.283935546875,
+        2469.938232421875
+      ]
+    ],
+    "confianzas": [
+      0.9001328349113464
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "90",
+    "individuo": "individuo 0994",
+    "ruta_original": "individuo 0994\\img01_ind_cm0994.jpg",
+    "modelo": "refuerzo",
+    "ancho": 1752,
+    "alto": 2477,
+    "cajas": [
+      [
+        0.0,
+        34.42721176147461,
+        1749.878173828125,
+        2464.90771484375
+      ]
+    ],
+    "confianzas": [
+      0.9351823329925537
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "91",
+    "individuo": "individuo 0223",
+    "ruta_original": "individuo 0223\\img01_ind_cm0223.jpg",
+    "modelo": "piloto",
+    "ancho": 2305,
+    "alto": 2872,
+    "cajas": [
+      [
+        5.115199089050293,
+        20.366851806640625,
+        2292.880126953125,
+        2872.0
+      ]
+    ],
+    "confianzas": [
+      0.9506659507751465
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "91",
+    "individuo": "individuo 0223",
+    "ruta_original": "individuo 0223\\img01_ind_cm0223.jpg",
+    "modelo": "refuerzo",
+    "ancho": 2305,
+    "alto": 2872,
+    "cajas": [
+      [
+        1.9063109159469604,
+        4.944083213806152,
+        2302.396484375,
+        2858.927978515625
+      ]
+    ],
+    "confianzas": [
+      0.9336591362953186
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "92",
+    "individuo": "individuo 0471",
+    "ruta_original": "individuo 0471\\img02_ind_cm0471.jpg",
+    "modelo": "piloto",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        950.2320556640625,
+        10.282543182373047,
+        3471.01513671875,
+        3027.651611328125
+      ]
+    ],
+    "confianzas": [
+      0.8630954027175903
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "92",
+    "individuo": "individuo 0471",
+    "ruta_original": "individuo 0471\\img02_ind_cm0471.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        952.5542602539062,
+        30.480907440185547,
+        3498.315673828125,
+        3017.16455078125
+      ]
+    ],
+    "confianzas": [
+      0.9313719272613525
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "93",
+    "individuo": "individuo 0049",
+    "ruta_original": "individuo 0049\\img01_ind_cm0049.jpg",
+    "modelo": "piloto",
+    "ancho": 2850,
+    "alto": 4277,
+    "cajas": [
+      [
+        0.0,
+        294.3117370605469,
+        2848.88525390625,
+        4275.4892578125
+      ]
+    ],
+    "confianzas": [
+      0.8091347217559814
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "93",
+    "individuo": "individuo 0049",
+    "ruta_original": "individuo 0049\\img01_ind_cm0049.jpg",
+    "modelo": "refuerzo",
+    "ancho": 2850,
+    "alto": 4277,
+    "cajas": [
+      [
+        0.0,
+        190.72854614257812,
+        2815.730224609375,
+        4277.0
+      ]
+    ],
+    "confianzas": [
+      0.6589202880859375
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "94",
+    "individuo": "individuo 0327",
+    "ruta_original": "individuo 0327\\img01_ind_cm0327.jpg",
+    "modelo": "piloto",
+    "ancho": 1840,
+    "alto": 3264,
+    "cajas": [
+      [
+        0.0,
+        116.0748062133789,
+        1840.0,
+        2845.61328125
+      ]
+    ],
+    "confianzas": [
+      0.8335152268409729
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "94",
+    "individuo": "individuo 0327",
+    "ruta_original": "individuo 0327\\img01_ind_cm0327.jpg",
+    "modelo": "refuerzo",
+    "ancho": 1840,
+    "alto": 3264,
+    "cajas": [
+      [
+        0.0,
+        62.156558990478516,
+        1840.0,
+        2888.75146484375
+      ]
+    ],
+    "confianzas": [
+      0.8800448775291443
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "95",
+    "individuo": "individuo 0594",
+    "ruta_original": "individuo 0594\\img05_ind_cm0594.jpg",
+    "modelo": "piloto",
+    "ancho": 640,
+    "alto": 480,
+    "cajas": [
+      [
+        148.2862548828125,
+        23.3212890625,
+        497.77166748046875,
+        477.3931884765625
+      ]
+    ],
+    "confianzas": [
+      0.7957439422607422
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "95",
+    "individuo": "individuo 0594",
+    "ruta_original": "individuo 0594\\img05_ind_cm0594.jpg",
+    "modelo": "refuerzo",
+    "ancho": 640,
+    "alto": 480,
+    "cajas": [
+      [
+        159.181396484375,
+        30.17279052734375,
+        497.65264892578125,
+        475.3837890625
+      ]
+    ],
+    "confianzas": [
+      0.8728574514389038
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "96",
+    "individuo": "individuo 0313",
+    "ruta_original": "individuo 0313\\img01_ind_cm0313.jpg",
+    "modelo": "piloto",
+    "ancho": 1839,
+    "alto": 2498,
+    "cajas": [
+      [
+        0.0,
+        53.50001907348633,
+        1839.0,
+        2489.60498046875
+      ]
+    ],
+    "confianzas": [
+      0.9008394479751587
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "96",
+    "individuo": "individuo 0313",
+    "ruta_original": "individuo 0313\\img01_ind_cm0313.jpg",
+    "modelo": "refuerzo",
+    "ancho": 1839,
+    "alto": 2498,
+    "cajas": [
+      [
+        0.0,
+        28.166393280029297,
+        1839.0,
+        2492.71435546875
+      ]
+    ],
+    "confianzas": [
+      0.931783139705658
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "97",
+    "individuo": "individuo 0270",
+    "ruta_original": "individuo 0270\\img02_ind_cm0270.jpg",
+    "modelo": "piloto",
+    "ancho": 1493,
+    "alto": 2040,
+    "cajas": [
+      [
+        0.0,
+        85.9183349609375,
+        1493.0,
+        2030.5047607421875
+      ]
+    ],
+    "confianzas": [
+      0.9097678065299988
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "97",
+    "individuo": "individuo 0270",
+    "ruta_original": "individuo 0270\\img02_ind_cm0270.jpg",
+    "modelo": "refuerzo",
+    "ancho": 1493,
+    "alto": 2040,
+    "cajas": [
+      [
+        20.051347732543945,
+        51.48929214477539,
+        1491.4501953125,
+        2031.1417236328125
+      ]
+    ],
+    "confianzas": [
+      0.9034941792488098
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "98",
+    "individuo": "individuo 0328",
+    "ruta_original": "individuo 0328\\img13_ind_cm0328.jpg",
+    "modelo": "piloto",
+    "ancho": 3456,
+    "alto": 4608,
+    "cajas": [
+      [
+        865.4088745117188,
+        637.7198486328125,
+        2870.62158203125,
+        3463.67919921875
+      ]
+    ],
+    "confianzas": [
+      0.8202176690101624
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "98",
+    "individuo": "individuo 0328",
+    "ruta_original": "individuo 0328\\img13_ind_cm0328.jpg",
+    "modelo": "refuerzo",
+    "ancho": 3456,
+    "alto": 4608,
+    "cajas": [
+      [
+        815.0758666992188,
+        653.1444091796875,
+        2883.409423828125,
+        3474.472412109375
+      ]
+    ],
+    "confianzas": [
+      0.7826953530311584
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "99",
+    "individuo": "individuo 0459",
+    "ruta_original": "individuo 0459\\img06_ind_cm0459.jpg",
+    "modelo": "piloto",
+    "ancho": 4000,
+    "alto": 3000,
+    "cajas": [
+      [
+        1032.027099609375,
+        2.4988174438476562,
+        3249.197509765625,
+        2983.716064453125
+      ]
+    ],
+    "confianzas": [
+      0.8951441645622253
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "99",
+    "individuo": "individuo 0459",
+    "ruta_original": "individuo 0459\\img06_ind_cm0459.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4000,
+    "alto": 3000,
+    "cajas": [
+      [
+        1028.670166015625,
+        77.45227813720703,
+        3307.10107421875,
+        2979.173583984375
+      ]
+    ],
+    "confianzas": [
+      0.9009044766426086
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "100",
+    "individuo": "individuo 0398",
+    "ruta_original": "individuo 0398\\img06_ind_cm0398.jpg",
+    "modelo": "piloto",
+    "ancho": 480,
+    "alto": 640,
+    "cajas": [
+      [
+        93.35501098632812,
+        207.35943603515625,
+        479.0542907714844,
+        612.1699829101562
+      ]
+    ],
+    "confianzas": [
+      0.63959801197052
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "nueva",
+    "numero": "100",
+    "individuo": "individuo 0398",
+    "ruta_original": "individuo 0398\\img06_ind_cm0398.jpg",
+    "modelo": "refuerzo",
+    "ancho": 480,
+    "alto": 640,
+    "cajas": [],
+    "confianzas": [],
+    "indice_elegido": null
+  },
+  {
+    "grupo": "correccion_entrenada",
+    "numero": "10",
+    "individuo": "individuo 0884",
+    "ruta_original": "individuo 0884\\img03_ind_cm0884.jpg",
+    "modelo": "piloto",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [
+      [
+        2060.320556640625,
+        2788.5517578125,
+        4040.24560546875,
+        3454.968994140625
+      ]
+    ],
+    "confianzas": [
+      0.5672518610954285
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "correccion_entrenada",
+    "numero": "10",
+    "individuo": "individuo 0884",
+    "ruta_original": "individuo 0884\\img03_ind_cm0884.jpg",
+    "modelo": "refuerzo",
+    "ancho": 4608,
+    "alto": 3456,
+    "cajas": [],
+    "confianzas": [],
+    "indice_elegido": null
+  },
+  {
+    "grupo": "correccion_entrenada",
+    "numero": "62",
+    "individuo": "individuo 0139",
+    "ruta_original": "individuo 0139\\img05_ind_cm0139.jpg",
+    "modelo": "piloto",
+    "ancho": 480,
+    "alto": 640,
+    "cajas": [
+      [
+        0.4273529052734375,
+        0.0,
+        239.44326782226562,
+        103.30223846435547
+      ],
+      [
+        9.6280517578125,
+        153.8424835205078,
+        475.61724853515625,
+        484.21160888671875
+      ],
+      [
+        3.535430908203125,
+        549.7252197265625,
+        252.3375244140625,
+        639.5670166015625
+      ],
+      [
+        0.0,
+        407.955810546875,
+        206.3831024169922,
+        640.0
+      ],
+      [
+        35.880531311035156,
+        571.5452270507812,
+        260.7947082519531,
+        639.4899291992188
+      ],
+      [
+        0.3769683837890625,
+        469.35888671875,
+        242.8933563232422,
+        639.885498046875
+      ]
+    ],
+    "confianzas": [
+      0.8912064433097839,
+      0.8056290745735168,
+      0.49021729826927185,
+      0.3304550349712372,
+      0.2842182517051697,
+      0.2683682441711426
+    ],
+    "indice_elegido": 0
+  },
+  {
+    "grupo": "correccion_entrenada",
+    "numero": "62",
+    "individuo": "individuo 0139",
+    "ruta_original": "individuo 0139\\img05_ind_cm0139.jpg",
+    "modelo": "refuerzo",
+    "ancho": 480,
+    "alto": 640,
+    "cajas": [
+      [
+        2.690460205078125,
+        147.1828155517578,
+        480.0,
+        481.39984130859375
+      ],
+      [
+        0.0466766357421875,
+        1.3599166870117188,
+        222.6396942138672,
+        112.15294647216797
+      ]
+    ],
+    "confianzas": [
+      0.79897141456604,
+      0.37697404623031616
+    ],
+    "indice_elegido": 0
+  }
+]

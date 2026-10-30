@@ -1,0 +1,29 @@
+AUDITORIA DEL DATASET TORTUGAS - PROYECTO 3.0
+Fecha: 2026-10-03T16:13:53
+Dataset: C:\Users\cancu\Pictures\PROYECTO TORTUGAS\zproyecto3_0\tortugascm (1033 ind con muchas fotos)
+
+Carpetas de individuos: 1033
+Imagenes encontradas: 6604
+Imagenes con lectura completa correcta: 6582
+Imagenes con error de lectura: 22
+Archivos sin hash calculado: 0
+Carpetas sin imagenes: 25
+Carpetas realmente vacias: 0
+Individuos con una imagen: 194
+Individuos con dos o mas imagenes: 814
+Otros archivos dentro de individuos: 1447
+Imagenes en subcarpetas: 0
+
+Grupos de duplicados exactos: 0
+Copias adicionales dentro de esos grupos: 0
+Grupos repetidos entre distintos individuos: 0
+Imagenes legibles con lado menor inferior a 224 px: 10
+Tiempo total: 556.1 segundos
+
+ALCANCE:
+Duplicado exacto significa contenido del archivo identico por SHA-256.
+No detecta fotos parecidas ni copias recomprimidas.
+La dimension inferior a 224 px es una observacion, no un descarte.
+Esta auditoria no confirma identidad, nitidez ni visibilidad de la cabeza.
+Solo se procesan imagenes dentro de carpetas 'individuo N'.
+No se borraron, renombraron ni modificaron imagenes.

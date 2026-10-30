@@ -1,0 +1,20 @@
+{
+  "dataset": "C:\\Users\\cancu\\Pictures\\PROYECTO TORTUGAS\\zproyecto3_0\\tortugascm (1033 ind con muchas fotos)",
+  "particiones": "C:\\Users\\cancu\\Pictures\\PROYECTO TORTUGAS\\zproyecto3_0\\reid3_0\\particiones_sesiones_20261005_180057_713242",
+  "fotos_en_disco": 6604,
+  "reparto_actual": {
+    "entrenamiento.csv": 4495,
+    "validacion.csv": 806,
+    "prueba.csv": 841
+  },
+  "pendientes_fecha": 130,
+  "fuera_particiones": 462,
+  "estados": {
+    "FUERA_DE_PARTICIONES_REVISAR": 332,
+    "PENDIENTE_FECHA_Y_ANTECEDENTES": 130
+  },
+  "originales_faltantes": 0,
+  "errores_hash": 0,
+  "fotos_reservadas_automaticamente": 0,
+  "dataset_modificado": false
+}

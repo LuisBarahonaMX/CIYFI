@@ -1,0 +1,29 @@
+﻿AUDITORIA DE POSIBLE RESERVA CIYFI
+{
+  "dataset": "C:\\Users\\cancu\\Pictures\\PROYECTO TORTUGAS\\zproyecto3_0\\tortugascm (1033 ind con muchas fotos)",
+  "particiones": "C:\\Users\\cancu\\Pictures\\PROYECTO TORTUGAS\\zproyecto3_0\\reid3_0\\particiones_sesiones_20261005_180057_713242",
+  "fotos_en_disco": 6604,
+  "reparto_actual": {
+    "entrenamiento.csv": 4495,
+    "validacion.csv": 806,
+    "prueba.csv": 841
+  },
+  "pendientes_fecha": 130,
+  "fuera_particiones": 462,
+  "estados": {
+    "FUERA_DE_PARTICIONES_REVISAR": 332,
+    "PENDIENTE_FECHA_Y_ANTECEDENTES": 130
+  },
+  "originales_faltantes": 0,
+  "errores_hash": 0,
+  "fotos_reservadas_automaticamente": 0,
+  "dataset_modificado": false
+}
+
+Esta auditoria NO crea una prueba independiente.
+Las fotos fuera de CSV pueden ser descartes, copias o fotos ya vistas.
+Antes de reservar: validar cabeza/identidad, fecha y sesion completa, antecedentes de uso, y semejanza con fotos usadas.
+Los hashes detectan solo copias exactas; no fotos parecidas o recomprimidas.
+No reutilizar train/validacion/prueba anterior como si fueran fotos nuevas.
+Las 130 fotos sin fecha requieren evidencia de fecha y sesion; no asignarlas usando fecha de copia de Windows.
+Se conservaron todas las particiones y originales.

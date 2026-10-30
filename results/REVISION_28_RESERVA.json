@@ -1,0 +1,461 @@
+{
+  "manifest_sha256": "28273fbac23f176bb55ebce823b8947bb1dccc516cee72bf18485e8af2bd1f08",
+  "fecha_exportacion": "2026-10-08T22:50:38.585882-05:00",
+  "total_fotos": 28,
+  "sesiones_candidatas": 16,
+  "completa": true,
+  "tipo_revision": "Calidad visual de originales; no evalua coincidencias del modelo.",
+  "reserva_independiente_confirmada": false,
+  "decisiones": {
+    "individuo 0001/img01_ind_cm0001.jpg": {
+      "decision": "CABEZA_UTIL",
+      "observaciones": "",
+      "error_lectura": "",
+      "fecha_revision": "2026-10-08T22:49:11.486516-05:00"
+    },
+    "individuo 0043/img01_ind_cm0043.jpg": {
+      "decision": "CABEZA_UTIL",
+      "observaciones": "",
+      "error_lectura": "",
+      "fecha_revision": "2026-10-08T22:49:18.358657-05:00"
+    },
+    "individuo 0043/img02_ind_cm0043.jpg": {
+      "decision": "CABEZA_UTIL",
+      "observaciones": "",
+      "error_lectura": "",
+      "fecha_revision": "2026-10-08T22:49:22.638804-05:00"
+    },
+    "individuo 0150/img15_ind_cm0150.jpg": {
+      "decision": "NO_UTIL",
+      "observaciones": "",
+      "error_lectura": "",
+      "fecha_revision": "2026-10-08T22:49:26.518786-05:00"
+    },
+    "individuo 0150/img16_ind_cm0150.jpg": {
+      "decision": "NO_UTIL",
+      "observaciones": "",
+      "error_lectura": "",
+      "fecha_revision": "2026-10-08T22:49:30.102849-05:00"
+    },
+    "individuo 0150/img17_ind_cm0150.jpg": {
+      "decision": "CABEZA_UTIL",
+      "observaciones": "",
+      "error_lectura": "",
+      "fecha_revision": "2026-10-08T22:49:35.047158-05:00"
+    },
+    "individuo 0150/img18_ind_cm0150.jpg": {
+      "decision": "CABEZA_UTIL",
+      "observaciones": "",
+      "error_lectura": "",
+      "fecha_revision": "2026-10-08T22:49:38.655133-05:00"
+    },
+    "individuo 0390/img01_ind_cm0390.jpg": {
+      "decision": "CABEZA_UTIL",
+      "observaciones": "",
+      "error_lectura": "",
+      "fecha_revision": "2026-10-08T22:49:42.423166-05:00"
+    },
+    "individuo 0399/img01_ind_cm0399.jpg": {
+      "decision": "CABEZA_UTIL",
+      "observaciones": "",
+      "error_lectura": "",
+      "fecha_revision": "2026-10-08T22:49:44.855281-05:00"
+    },
+    "individuo 0399/img02_ind_cm0399.jpg": {
+      "decision": "CABEZA_UTIL",
+      "observaciones": "",
+      "error_lectura": "",
+      "fecha_revision": "2026-10-08T22:49:47.703323-05:00"
+    },
+    "individuo 0402/img07_ind_cm0402.jpg": {
+      "decision": "CABEZA_UTIL",
+      "observaciones": "",
+      "error_lectura": "",
+      "fecha_revision": "2026-10-08T22:49:49.695409-05:00"
+    },
+    "individuo 0456/img26_ind_cm0456.jpg": {
+      "decision": "NO_UTIL",
+      "observaciones": "",
+      "error_lectura": "",
+      "fecha_revision": "2026-10-08T22:49:51.807525-05:00"
+    },
+    "individuo 0456/img27_ind_cm0456.jpg": {
+      "decision": "CABEZA_UTIL",
+      "observaciones": "",
+      "error_lectura": "",
+      "fecha_revision": "2026-10-08T22:49:55.544132-05:00"
+    },
+    "individuo 0555/img01_ind_cm0555.jpg": {
+      "decision": "CABEZA_UTIL",
+      "observaciones": "",
+      "error_lectura": "",
+      "fecha_revision": "2026-10-08T22:49:57.984082-05:00"
+    },
+    "individuo 0593/img06_ind_cm0593.jpg": {
+      "decision": "CABEZA_UTIL",
+      "observaciones": "",
+      "error_lectura": "",
+      "fecha_revision": "2026-10-08T22:50:00.416835-05:00"
+    },
+    "individuo 0593/img07_ind_cm0593.jpg": {
+      "decision": "CABEZA_UTIL",
+      "observaciones": "",
+      "error_lectura": "",
+      "fecha_revision": "2026-10-08T22:50:01.999890-05:00"
+    },
+    "individuo 0593/img08_ind_cm0593.jpg": {
+      "decision": "CABEZA_UTIL",
+      "observaciones": "",
+      "error_lectura": "",
+      "fecha_revision": "2026-10-08T22:50:05.304596-05:00"
+    },
+    "individuo 0733/img12_ind_cm0733.jpg": {
+      "decision": "CABEZA_UTIL",
+      "observaciones": "",
+      "error_lectura": "",
+      "fecha_revision": "2026-10-08T22:50:08.024884-05:00"
+    },
+    "individuo 0733/img13_ind_cm0733.jpg": {
+      "decision": "CABEZA_UTIL",
+      "observaciones": "",
+      "error_lectura": "",
+      "fecha_revision": "2026-10-08T22:50:11.352066-05:00"
+    },
+    "individuo 0742/img02_ind_cm0742.jpg": {
+      "decision": "CABEZA_UTIL",
+      "observaciones": "",
+      "error_lectura": "",
+      "fecha_revision": "2026-10-08T22:50:14.096427-05:00"
+    },
+    "individuo 0742/img03_ind_cm0742.jpg": {
+      "decision": "CABEZA_UTIL",
+      "observaciones": "",
+      "error_lectura": "",
+      "fecha_revision": "2026-10-08T22:50:17.577150-05:00"
+    },
+    "individuo 0742/img04_ind_cm0742.jpg": {
+      "decision": "CABEZA_UTIL",
+      "observaciones": "",
+      "error_lectura": "",
+      "fecha_revision": "2026-10-08T22:50:19.489310-05:00"
+    },
+    "individuo 0763/img06_ind_cm0763.jpg": {
+      "decision": "CABEZA_UTIL",
+      "observaciones": "",
+      "error_lectura": "",
+      "fecha_revision": "2026-10-08T22:50:21.553022-05:00"
+    },
+    "individuo 0763/img07_ind_cm0763.jpg": {
+      "decision": "CABEZA_UTIL",
+      "observaciones": "",
+      "error_lectura": "",
+      "fecha_revision": "2026-10-08T22:50:23.937333-05:00"
+    },
+    "individuo 0763/img21_ind_cm0763.jpg": {
+      "decision": "NO_UTIL",
+      "observaciones": "",
+      "error_lectura": "",
+      "fecha_revision": "2026-10-08T22:50:26.449400-05:00"
+    },
+    "individuo 0922/img08_ind_cm0922.jpg": {
+      "decision": "CABEZA_UTIL",
+      "observaciones": "",
+      "error_lectura": "",
+      "fecha_revision": "2026-10-08T22:50:28.801531-05:00"
+    },
+    "individuo 0989/img03_ind_cm0989.jpg": {
+      "decision": "CABEZA_UTIL",
+      "observaciones": "",
+      "error_lectura": "",
+      "fecha_revision": "2026-10-08T22:50:31.081377-05:00"
+    },
+    "individuo 0989/img02_ind_cm0989.jpg": {
+      "decision": "CABEZA_UTIL",
+      "observaciones": "",
+      "error_lectura": "",
+      "fecha_revision": "2026-10-08T22:50:36.545671-05:00"
+    }
+  },
+  "manifest": [
+    {
+      "original": "individuo 0001/img01_ind_cm0001.jpg",
+      "individuo": "individuo 0001",
+      "fecha_exif": "2020-08-10T03:37:47",
+      "dia_operativo": "2020-08-09",
+      "sesion_candidata": "R001",
+      "sha256_original": "0d760ea9d7cf50c84b00309ccfba32033d3c5ec9e157f2c2852d2758e691d271",
+      "consultada_en_historial_40": true,
+      "motivo_anterior": "Excluida del inventario valido; motivo exacto pendiente de comprobar."
+    },
+    {
+      "original": "individuo 0043/img01_ind_cm0043.jpg",
+      "individuo": "individuo 0043",
+      "fecha_exif": "2022-07-04T01:30:05",
+      "dia_operativo": "2022-07-03",
+      "sesion_candidata": "R002",
+      "sha256_original": "3c52f2e30d6e151b188e4cceaa8bad3ee6d586a90c5a616b48ea5cb8333977ec",
+      "consultada_en_historial_40": false,
+      "motivo_anterior": "Excluida del inventario valido; motivo exacto pendiente de comprobar."
+    },
+    {
+      "original": "individuo 0043/img02_ind_cm0043.jpg",
+      "individuo": "individuo 0043",
+      "fecha_exif": "2022-07-04T01:30:27",
+      "dia_operativo": "2022-07-03",
+      "sesion_candidata": "R002",
+      "sha256_original": "f32c007a5b9f490daf7bc81068a3e25d9367404698f5e6db25c469fe77c9494c",
+      "consultada_en_historial_40": false,
+      "motivo_anterior": "Excluida del inventario valido; motivo exacto pendiente de comprobar."
+    },
+    {
+      "original": "individuo 0150/img15_ind_cm0150.jpg",
+      "individuo": "individuo 0150",
+      "fecha_exif": "2021-08-07T04:39:52",
+      "dia_operativo": "2021-08-06",
+      "sesion_candidata": "R003",
+      "sha256_original": "b75a6754dcc4f1f264e36a684aade118d98efb4a2553b6c69abf1004cf9ae7ae",
+      "consultada_en_historial_40": false,
+      "motivo_anterior": "Excluida del inventario valido; motivo exacto pendiente de comprobar."
+    },
+    {
+      "original": "individuo 0150/img16_ind_cm0150.jpg",
+      "individuo": "individuo 0150",
+      "fecha_exif": "2021-08-07T04:40:07",
+      "dia_operativo": "2021-08-06",
+      "sesion_candidata": "R003",
+      "sha256_original": "cd8337ee2247fe1a6c30d6fdc3b19f4db08c7720caf2dcd26228d2ec8c8995de",
+      "consultada_en_historial_40": false,
+      "motivo_anterior": "Excluida del inventario valido; motivo exacto pendiente de comprobar."
+    },
+    {
+      "original": "individuo 0150/img17_ind_cm0150.jpg",
+      "individuo": "individuo 0150",
+      "fecha_exif": "2021-08-07T04:40:11",
+      "dia_operativo": "2021-08-06",
+      "sesion_candidata": "R003",
+      "sha256_original": "7f024adb5318e86b9e51f6c03dde4eb679951a51212ed733218887e4c3b597b3",
+      "consultada_en_historial_40": false,
+      "motivo_anterior": "Excluida del inventario valido; motivo exacto pendiente de comprobar."
+    },
+    {
+      "original": "individuo 0150/img18_ind_cm0150.jpg",
+      "individuo": "individuo 0150",
+      "fecha_exif": "2023-08-23T03:49:21",
+      "dia_operativo": "2023-08-22",
+      "sesion_candidata": "R004",
+      "sha256_original": "dbd771e43bbc59cdb8f090756a41a5d46502a47df51d22349e6f5ec7d9aa2bf0",
+      "consultada_en_historial_40": false,
+      "motivo_anterior": "Excluida del inventario valido; motivo exacto pendiente de comprobar."
+    },
+    {
+      "original": "individuo 0390/img01_ind_cm0390.jpg",
+      "individuo": "individuo 0390",
+      "fecha_exif": "2020-06-13T00:09:36",
+      "dia_operativo": "2020-06-12",
+      "sesion_candidata": "R005",
+      "sha256_original": "92b8ae00a9a8d8b7ecb50eafe3001db6d26780ecd9e54611f667f4cec1e54852",
+      "consultada_en_historial_40": false,
+      "motivo_anterior": "Excluida del inventario valido; motivo exacto pendiente de comprobar."
+    },
+    {
+      "original": "individuo 0399/img01_ind_cm0399.jpg",
+      "individuo": "individuo 0399",
+      "fecha_exif": "2020-06-16T23:23:34",
+      "dia_operativo": "2020-06-16",
+      "sesion_candidata": "R006",
+      "sha256_original": "b4ee9854e80d854cf203a85206c1978b9cee1d808f06cd8f5a39f9789a99071b",
+      "consultada_en_historial_40": false,
+      "motivo_anterior": "Excluida del inventario valido; motivo exacto pendiente de comprobar."
+    },
+    {
+      "original": "individuo 0399/img02_ind_cm0399.jpg",
+      "individuo": "individuo 0399",
+      "fecha_exif": "2020-06-16T23:24:02",
+      "dia_operativo": "2020-06-16",
+      "sesion_candidata": "R006",
+      "sha256_original": "55e93d1ae97fd6576ba8e2fef30be30dea4c26d91e8837d3822acf365c299304",
+      "consultada_en_historial_40": false,
+      "motivo_anterior": "Excluida del inventario valido; motivo exacto pendiente de comprobar."
+    },
+    {
+      "original": "individuo 0402/img07_ind_cm0402.jpg",
+      "individuo": "individuo 0402",
+      "fecha_exif": "2017-06-22T03:30:03",
+      "dia_operativo": "2017-06-21",
+      "sesion_candidata": "R007",
+      "sha256_original": "7e061b9e882297339ff2cc2b8750a64e563800db5a2540c90aa05ea5cccd6272",
+      "consultada_en_historial_40": false,
+      "motivo_anterior": "Excluida del inventario valido; motivo exacto pendiente de comprobar."
+    },
+    {
+      "original": "individuo 0456/img26_ind_cm0456.jpg",
+      "individuo": "individuo 0456",
+      "fecha_exif": "2017-06-29T23:36:36",
+      "dia_operativo": "2017-06-29",
+      "sesion_candidata": "R008",
+      "sha256_original": "91c2df218c28ab6e044609b489fa190c74ae7d608bdddd970c74a4e4416db6ce",
+      "consultada_en_historial_40": false,
+      "motivo_anterior": "Excluida del inventario valido; motivo exacto pendiente de comprobar."
+    },
+    {
+      "original": "individuo 0456/img27_ind_cm0456.jpg",
+      "individuo": "individuo 0456",
+      "fecha_exif": "2017-06-29T23:36:44",
+      "dia_operativo": "2017-06-29",
+      "sesion_candidata": "R008",
+      "sha256_original": "13ab29d6f09428bb64a745efdb5d82d2854f629f59e757ec8e874c2f563b8e0b",
+      "consultada_en_historial_40": false,
+      "motivo_anterior": "Excluida del inventario valido; motivo exacto pendiente de comprobar."
+    },
+    {
+      "original": "individuo 0555/img01_ind_cm0555.jpg",
+      "individuo": "individuo 0555",
+      "fecha_exif": "2020-08-10T02:34:33",
+      "dia_operativo": "2020-08-09",
+      "sesion_candidata": "R009",
+      "sha256_original": "4fb9fd6556478bd5a4ca171c196b2e5a05fa4032fbcd318973c11c273dfbd40d",
+      "consultada_en_historial_40": false,
+      "motivo_anterior": "Excluida del inventario valido; motivo exacto pendiente de comprobar."
+    },
+    {
+      "original": "individuo 0593/img06_ind_cm0593.jpg",
+      "individuo": "individuo 0593",
+      "fecha_exif": "2023-08-19T03:24:02",
+      "dia_operativo": "2023-08-18",
+      "sesion_candidata": "R010",
+      "sha256_original": "02e2aca12a534d82dd756377db88935a4d90b53bd1470ff664ba0cf0e8c5e5cf",
+      "consultada_en_historial_40": false,
+      "motivo_anterior": "Excluida del inventario valido; motivo exacto pendiente de comprobar."
+    },
+    {
+      "original": "individuo 0593/img07_ind_cm0593.jpg",
+      "individuo": "individuo 0593",
+      "fecha_exif": "2023-08-19T03:24:08",
+      "dia_operativo": "2023-08-18",
+      "sesion_candidata": "R010",
+      "sha256_original": "46b0fab2f07765d8a0a4ff9f9ac58b446aadcee1938bac93f55454922aa2300a",
+      "consultada_en_historial_40": false,
+      "motivo_anterior": "Excluida del inventario valido; motivo exacto pendiente de comprobar."
+    },
+    {
+      "original": "individuo 0593/img08_ind_cm0593.jpg",
+      "individuo": "individuo 0593",
+      "fecha_exif": "2023-08-19T03:24:15",
+      "dia_operativo": "2023-08-18",
+      "sesion_candidata": "R010",
+      "sha256_original": "65a449f130fb682d9c26ce450a7abca6fde239331bacfc1977fc58ae00587028",
+      "consultada_en_historial_40": false,
+      "motivo_anterior": "Excluida del inventario valido; motivo exacto pendiente de comprobar."
+    },
+    {
+      "original": "individuo 0733/img12_ind_cm0733.jpg",
+      "individuo": "individuo 0733",
+      "fecha_exif": "2022-06-24T00:09:09",
+      "dia_operativo": "2022-06-23",
+      "sesion_candidata": "R011",
+      "sha256_original": "217a9c65ce0fb21473cd78beb0d08223ebfb6c3d0dd47ca24efcfc459658ebc5",
+      "consultada_en_historial_40": false,
+      "motivo_anterior": "Excluida del inventario valido; motivo exacto pendiente de comprobar."
+    },
+    {
+      "original": "individuo 0733/img13_ind_cm0733.jpg",
+      "individuo": "individuo 0733",
+      "fecha_exif": "2022-06-24T00:11:24",
+      "dia_operativo": "2022-06-23",
+      "sesion_candidata": "R011",
+      "sha256_original": "6fcd32ce9d89069a84487e98eece8b4739237b9b695369d2eb88b2817af7dc6f",
+      "consultada_en_historial_40": false,
+      "motivo_anterior": "Excluida del inventario valido; motivo exacto pendiente de comprobar."
+    },
+    {
+      "original": "individuo 0742/img02_ind_cm0742.jpg",
+      "individuo": "individuo 0742",
+      "fecha_exif": "2024-08-17T03:56:08",
+      "dia_operativo": "2024-08-16",
+      "sesion_candidata": "R012",
+      "sha256_original": "8bc826f4bd89b2959c15b7b72f9653c8a448518d36a017426eb3ad50eed7d533",
+      "consultada_en_historial_40": false,
+      "motivo_anterior": "Excluida del inventario valido; motivo exacto pendiente de comprobar."
+    },
+    {
+      "original": "individuo 0742/img03_ind_cm0742.jpg",
+      "individuo": "individuo 0742",
+      "fecha_exif": "2024-08-17T03:56:12",
+      "dia_operativo": "2024-08-16",
+      "sesion_candidata": "R012",
+      "sha256_original": "689f284fa4555aae73d39fc4bd27d8e144ba0d2944dc7c76201ef6ef943c30b8",
+      "consultada_en_historial_40": false,
+      "motivo_anterior": "Excluida del inventario valido; motivo exacto pendiente de comprobar."
+    },
+    {
+      "original": "individuo 0742/img04_ind_cm0742.jpg",
+      "individuo": "individuo 0742",
+      "fecha_exif": "2024-08-17T03:58:13",
+      "dia_operativo": "2024-08-16",
+      "sesion_candidata": "R012",
+      "sha256_original": "ea9decef3a8cb43b2f9c60204e631dd4e7b4ce980a2235885b744b31c0ce4122",
+      "consultada_en_historial_40": false,
+      "motivo_anterior": "Excluida del inventario valido; motivo exacto pendiente de comprobar."
+    },
+    {
+      "original": "individuo 0763/img06_ind_cm0763.jpg",
+      "individuo": "individuo 0763",
+      "fecha_exif": "2022-06-23T23:06:55",
+      "dia_operativo": "2022-06-23",
+      "sesion_candidata": "R013",
+      "sha256_original": "5f2c2d9ace16be10f0cd9e2ecb62c6b1a61c509ca990b195cbb470d8a23a0e32",
+      "consultada_en_historial_40": false,
+      "motivo_anterior": "Excluida del inventario valido; motivo exacto pendiente de comprobar."
+    },
+    {
+      "original": "individuo 0763/img07_ind_cm0763.jpg",
+      "individuo": "individuo 0763",
+      "fecha_exif": "2022-06-23T23:08:10",
+      "dia_operativo": "2022-06-23",
+      "sesion_candidata": "R013",
+      "sha256_original": "5c618ac9d8eea021b9a216a8c4b3300ebba1359c92da606f5c8f82c5c81648a9",
+      "consultada_en_historial_40": false,
+      "motivo_anterior": "Excluida del inventario valido; motivo exacto pendiente de comprobar."
+    },
+    {
+      "original": "individuo 0763/img21_ind_cm0763.jpg",
+      "individuo": "individuo 0763",
+      "fecha_exif": "2022-07-25T23:06:20",
+      "dia_operativo": "2022-07-25",
+      "sesion_candidata": "R014",
+      "sha256_original": "1e34a5c340b9420d9ae45591f3968f33bac01c4545937623d1effd0358bb96d9",
+      "consultada_en_historial_40": false,
+      "motivo_anterior": "Excluida del inventario valido; motivo exacto pendiente de comprobar."
+    },
+    {
+      "original": "individuo 0922/img08_ind_cm0922.jpg",
+      "individuo": "individuo 0922",
+      "fecha_exif": "2023-07-30T23:09:28",
+      "dia_operativo": "2023-07-30",
+      "sesion_candidata": "R015",
+      "sha256_original": "f49f7a80b659d12772aadcd5f1c77a577bc50242ec6d54cd0e0882d0c0351a1c",
+      "consultada_en_historial_40": false,
+      "motivo_anterior": "Excluida del inventario valido; motivo exacto pendiente de comprobar."
+    },
+    {
+      "original": "individuo 0989/img03_ind_cm0989.jpg",
+      "individuo": "individuo 0989",
+      "fecha_exif": "2024-07-19T00:37:36",
+      "dia_operativo": "2024-07-18",
+      "sesion_candidata": "R016",
+      "sha256_original": "a7b594635f91e2135d41048b6be3b5b14986415b229531b689134242e8213774",
+      "consultada_en_historial_40": false,
+      "motivo_anterior": "Excluida del inventario valido; motivo exacto pendiente de comprobar."
+    },
+    {
+      "original": "individuo 0989/img02_ind_cm0989.jpg",
+      "individuo": "individuo 0989",
+      "fecha_exif": "2024-07-19T00:37:42",
+      "dia_operativo": "2024-07-18",
+      "sesion_candidata": "R016",
+      "sha256_original": "80d77b9e375080235a4b02dac74565737930ac996481f72ea5872dde3b8058ea",
+      "consultada_en_historial_40": false,
+      "motivo_anterior": "Excluida del inventario valido; motivo exacto pendiente de comprobar."
+    }
+  ]
+}

@@ -1,0 +1,802 @@
+[
+  {
+    "numero": "1",
+    "individuo": "individuo 0128",
+    "ruta_original": "individuo 0128\\img02_ind_cm0128.jpg",
+    "archivo": "001.jpg",
+    "ancho_original": 386,
+    "alto_original": 477,
+    "ancho_copia": 386,
+    "alto_copia": 477
+  },
+  {
+    "numero": "2",
+    "individuo": "individuo 0347",
+    "ruta_original": "individuo 0347\\img01_ind_cm0347.jpg",
+    "archivo": "002.jpg",
+    "ancho_original": 1668,
+    "alto_original": 2593,
+    "ancho_copia": 1029,
+    "alto_copia": 1600
+  },
+  {
+    "numero": "3",
+    "individuo": "individuo 0541",
+    "ruta_original": "individuo 0541\\img05_ind_cm0541.jpg",
+    "archivo": "003.jpg",
+    "ancho_original": 640,
+    "alto_original": 480,
+    "ancho_copia": 640,
+    "alto_copia": 480
+  },
+  {
+    "numero": "4",
+    "individuo": "individuo 0552",
+    "ruta_original": "individuo 0552\\img16_ind_cm0552.jpg",
+    "archivo": "004.jpg",
+    "ancho_original": 480,
+    "alto_original": 640,
+    "ancho_copia": 480,
+    "alto_copia": 640
+  },
+  {
+    "numero": "5",
+    "individuo": "individuo 0699",
+    "ruta_original": "individuo 0699\\img13_ind_cm0699.jpg",
+    "archivo": "005.jpg",
+    "ancho_original": 4608,
+    "alto_original": 3456,
+    "ancho_copia": 1600,
+    "alto_copia": 1200
+  },
+  {
+    "numero": "6",
+    "individuo": "individuo 0938",
+    "ruta_original": "individuo 0938\\img05_ind_cm0938.jpg",
+    "archivo": "006.jpg",
+    "ancho_original": 4608,
+    "alto_original": 3456,
+    "ancho_copia": 1600,
+    "alto_copia": 1200
+  },
+  {
+    "numero": "7",
+    "individuo": "individuo 0111",
+    "ruta_original": "individuo 0111\\img02_ind_cm0111.jpg",
+    "archivo": "007.jpg",
+    "ancho_original": 303,
+    "alto_original": 401,
+    "ancho_copia": 303,
+    "alto_copia": 401
+  },
+  {
+    "numero": "8",
+    "individuo": "individuo 0964",
+    "ruta_original": "individuo 0964\\img10_ind_cm0964.jpg",
+    "archivo": "008.jpg",
+    "ancho_original": 4608,
+    "alto_original": 3456,
+    "ancho_copia": 1600,
+    "alto_copia": 1200
+  },
+  {
+    "numero": "9",
+    "individuo": "individuo 0240",
+    "ruta_original": "individuo 0240\\img02_ind_cm0240.jpg",
+    "archivo": "009.jpg",
+    "ancho_original": 2491,
+    "alto_original": 3769,
+    "ancho_copia": 1057,
+    "alto_copia": 1600
+  },
+  {
+    "numero": "10",
+    "individuo": "individuo 0976",
+    "ruta_original": "individuo 0976\\img01_ind_cm0976.jpg",
+    "archivo": "010.jpg",
+    "ancho_original": 2340,
+    "alto_original": 2807,
+    "ancho_copia": 1334,
+    "alto_copia": 1600
+  },
+  {
+    "numero": "11",
+    "individuo": "individuo 0648",
+    "ruta_original": "individuo 0648\\img29_ind_cm0648.jpg",
+    "archivo": "011.jpg",
+    "ancho_original": 4608,
+    "alto_original": 3456,
+    "ancho_copia": 1600,
+    "alto_copia": 1200
+  },
+  {
+    "numero": "12",
+    "individuo": "individuo 0670",
+    "ruta_original": "individuo 0670\\img09_ind_cm0670.jpg",
+    "archivo": "012.jpg",
+    "ancho_original": 4608,
+    "alto_original": 3456,
+    "ancho_copia": 1600,
+    "alto_copia": 1200
+  },
+  {
+    "numero": "13",
+    "individuo": "individuo 0599",
+    "ruta_original": "individuo 0599\\img02_ind_cm0599.jpg",
+    "archivo": "013.jpg",
+    "ancho_original": 2227,
+    "alto_original": 2823,
+    "ancho_copia": 1262,
+    "alto_copia": 1600
+  },
+  {
+    "numero": "14",
+    "individuo": "individuo 0453",
+    "ruta_original": "individuo 0453\\img01_ind_cm0453.jpg",
+    "archivo": "014.jpg",
+    "ancho_original": 640,
+    "alto_original": 480,
+    "ancho_copia": 640,
+    "alto_copia": 480
+  },
+  {
+    "numero": "15",
+    "individuo": "individuo 0856",
+    "ruta_original": "individuo 0856\\img02_ind_cm0856.jpg",
+    "archivo": "015.jpg",
+    "ancho_original": 3456,
+    "alto_original": 4608,
+    "ancho_copia": 1200,
+    "alto_copia": 1600
+  },
+  {
+    "numero": "16",
+    "individuo": "individuo 0618",
+    "ruta_original": "individuo 0618\\img02_ind_cm0618.jpg",
+    "archivo": "016.jpg",
+    "ancho_original": 4000,
+    "alto_original": 3000,
+    "ancho_copia": 1600,
+    "alto_copia": 1200
+  },
+  {
+    "numero": "17",
+    "individuo": "individuo 0589",
+    "ruta_original": "individuo 0589\\img01_ind_cm0589.jpg",
+    "archivo": "017.jpg",
+    "ancho_original": 4000,
+    "alto_original": 3000,
+    "ancho_copia": 1600,
+    "alto_copia": 1200
+  },
+  {
+    "numero": "18",
+    "individuo": "individuo 0918",
+    "ruta_original": "individuo 0918\\img02_ind_cm0918.jpg",
+    "archivo": "018.jpg",
+    "ancho_original": 4608,
+    "alto_original": 3456,
+    "ancho_copia": 1600,
+    "alto_copia": 1200
+  },
+  {
+    "numero": "19",
+    "individuo": "individuo 0791",
+    "ruta_original": "individuo 0791\\img04_ind_cm0791.jpg",
+    "archivo": "019.jpg",
+    "ancho_original": 4000,
+    "alto_original": 3000,
+    "ancho_copia": 1600,
+    "alto_copia": 1200
+  },
+  {
+    "numero": "20",
+    "individuo": "individuo 0849",
+    "ruta_original": "individuo 0849\\img08_ind_cm0849.jpg",
+    "archivo": "020.jpg",
+    "ancho_original": 3456,
+    "alto_original": 4608,
+    "ancho_copia": 1200,
+    "alto_copia": 1600
+  },
+  {
+    "numero": "21",
+    "individuo": "individuo 0830",
+    "ruta_original": "individuo 0830\\img03_ind_cm0830.jpg",
+    "archivo": "021.jpg",
+    "ancho_original": 4000,
+    "alto_original": 3000,
+    "ancho_copia": 1600,
+    "alto_copia": 1200
+  },
+  {
+    "numero": "22",
+    "individuo": "individuo 0529",
+    "ruta_original": "individuo 0529\\img03_ind_cm0529.jpg",
+    "archivo": "022.jpg",
+    "ancho_original": 640,
+    "alto_original": 480,
+    "ancho_copia": 640,
+    "alto_copia": 480
+  },
+  {
+    "numero": "23",
+    "individuo": "individuo 0813",
+    "ruta_original": "individuo 0813\\img04_ind_cm0813.jpg",
+    "archivo": "023.jpg",
+    "ancho_original": 3000,
+    "alto_original": 4000,
+    "ancho_copia": 1200,
+    "alto_copia": 1600
+  },
+  {
+    "numero": "24",
+    "individuo": "individuo 0845",
+    "ruta_original": "individuo 0845\\img06_ind_cm0845.jpg",
+    "archivo": "024.jpg",
+    "ancho_original": 3000,
+    "alto_original": 4000,
+    "ancho_copia": 1200,
+    "alto_copia": 1600
+  },
+  {
+    "numero": "25",
+    "individuo": "individuo 0632",
+    "ruta_original": "individuo 0632\\img08_ind_cm0632.jpg",
+    "archivo": "025.jpg",
+    "ancho_original": 640,
+    "alto_original": 480,
+    "ancho_copia": 640,
+    "alto_copia": 480
+  },
+  {
+    "numero": "26",
+    "individuo": "individuo 0474",
+    "ruta_original": "individuo 0474\\img09_ind_cm0474.jpg",
+    "archivo": "026.jpg",
+    "ancho_original": 4608,
+    "alto_original": 3456,
+    "ancho_copia": 1600,
+    "alto_copia": 1200
+  },
+  {
+    "numero": "27",
+    "individuo": "individuo 0260",
+    "ruta_original": "individuo 0260\\img01_ind_cm0260.jpg",
+    "archivo": "027.jpg",
+    "ancho_original": 1869,
+    "alto_original": 2527,
+    "ancho_copia": 1183,
+    "alto_copia": 1600
+  },
+  {
+    "numero": "28",
+    "individuo": "individuo 0003",
+    "ruta_original": "individuo 0003\\img01_ind_cm0003.jpg",
+    "archivo": "028.jpg",
+    "ancho_original": 368,
+    "alto_original": 490,
+    "ancho_copia": 368,
+    "alto_copia": 490
+  },
+  {
+    "numero": "29",
+    "individuo": "individuo 0661",
+    "ruta_original": "individuo 0661\\img18_ind_cm0661.jpg",
+    "archivo": "029.jpg",
+    "ancho_original": 640,
+    "alto_original": 480,
+    "ancho_copia": 640,
+    "alto_copia": 480
+  },
+  {
+    "numero": "30",
+    "individuo": "individuo 0085",
+    "ruta_original": "individuo 0085\\img05_ind_cm0085.jpg",
+    "archivo": "030.jpg",
+    "ancho_original": 2439,
+    "alto_original": 2788,
+    "ancho_copia": 1400,
+    "alto_copia": 1600
+  },
+  {
+    "numero": "31",
+    "individuo": "individuo 0120",
+    "ruta_original": "individuo 0120\\img23_ind_cm0120.jpg",
+    "archivo": "031.jpg",
+    "ancho_original": 4000,
+    "alto_original": 3000,
+    "ancho_copia": 1600,
+    "alto_copia": 1200
+  },
+  {
+    "numero": "32",
+    "individuo": "individuo 0312",
+    "ruta_original": "individuo 0312\\img02_ind_cm0312.jpg",
+    "archivo": "032.jpg",
+    "ancho_original": 2485,
+    "alto_original": 3303,
+    "ancho_copia": 1204,
+    "alto_copia": 1600
+  },
+  {
+    "numero": "33",
+    "individuo": "individuo 0890",
+    "ruta_original": "individuo 0890\\img02_ind_cm0890.jpg",
+    "archivo": "033.jpg",
+    "ancho_original": 4608,
+    "alto_original": 3456,
+    "ancho_copia": 1600,
+    "alto_copia": 1200
+  },
+  {
+    "numero": "34",
+    "individuo": "individuo 0106",
+    "ruta_original": "individuo 0106\\img01_ind_cm0106.jpg",
+    "archivo": "034.jpg",
+    "ancho_original": 343,
+    "alto_original": 536,
+    "ancho_copia": 343,
+    "alto_copia": 536
+  },
+  {
+    "numero": "35",
+    "individuo": "individuo 0484",
+    "ruta_original": "individuo 0484\\img01_ind_cm0484.jpg",
+    "archivo": "035.jpg",
+    "ancho_original": 4000,
+    "alto_original": 3000,
+    "ancho_copia": 1600,
+    "alto_copia": 1200
+  },
+  {
+    "numero": "36",
+    "individuo": "individuo 0012",
+    "ruta_original": "individuo 0012\\img01_ind_cm0012.jpg",
+    "archivo": "036.jpg",
+    "ancho_original": 1880,
+    "alto_original": 2577,
+    "ancho_copia": 1167,
+    "alto_copia": 1600
+  },
+  {
+    "numero": "37",
+    "individuo": "individuo 0888",
+    "ruta_original": "individuo 0888\\img07_ind_cm0888.jpg",
+    "archivo": "037.jpg",
+    "ancho_original": 3000,
+    "alto_original": 4000,
+    "ancho_copia": 1200,
+    "alto_copia": 1600
+  },
+  {
+    "numero": "38",
+    "individuo": "individuo 0972",
+    "ruta_original": "individuo 0972\\img02_ind_cm0972.jpg",
+    "archivo": "038.jpg",
+    "ancho_original": 4608,
+    "alto_original": 3456,
+    "ancho_copia": 1600,
+    "alto_copia": 1200
+  },
+  {
+    "numero": "39",
+    "individuo": "individuo 0742",
+    "ruta_original": "individuo 0742\\img01_ind_cm0742.jpg",
+    "archivo": "039.jpg",
+    "ancho_original": 1825,
+    "alto_original": 2436,
+    "ancho_copia": 1199,
+    "alto_copia": 1600
+  },
+  {
+    "numero": "40",
+    "individuo": "individuo 0736",
+    "ruta_original": "individuo 0736\\img01_ind_cm0736.jpg",
+    "archivo": "040.jpg",
+    "ancho_original": 1594,
+    "alto_original": 2025,
+    "ancho_copia": 1259,
+    "alto_copia": 1600
+  },
+  {
+    "numero": "41",
+    "individuo": "individuo 0341",
+    "ruta_original": "individuo 0341\\img01_ind_cm0341.jpg",
+    "archivo": "041.jpg",
+    "ancho_original": 1716,
+    "alto_original": 2423,
+    "ancho_copia": 1133,
+    "alto_copia": 1600
+  },
+  {
+    "numero": "42",
+    "individuo": "individuo 0226",
+    "ruta_original": "individuo 0226\\img01_ind_cm0226.jpg",
+    "archivo": "042.jpg",
+    "ancho_original": 1473,
+    "alto_original": 2213,
+    "ancho_copia": 1065,
+    "alto_copia": 1600
+  },
+  {
+    "numero": "43",
+    "individuo": "individuo 0429",
+    "ruta_original": "individuo 0429\\img05_ind_cm0429.jpg",
+    "archivo": "043.jpg",
+    "ancho_original": 4000,
+    "alto_original": 3000,
+    "ancho_copia": 1600,
+    "alto_copia": 1200
+  },
+  {
+    "numero": "44",
+    "individuo": "individuo 0272",
+    "ruta_original": "individuo 0272\\img04_ind_cm0272.jpg",
+    "archivo": "044.jpg",
+    "ancho_original": 1464,
+    "alto_original": 2175,
+    "ancho_copia": 1077,
+    "alto_copia": 1600
+  },
+  {
+    "numero": "45",
+    "individuo": "individuo 0379",
+    "ruta_original": "individuo 0379\\img01_ind_cm0379.jpg",
+    "archivo": "045.jpg",
+    "ancho_original": 2311,
+    "alto_original": 2959,
+    "ancho_copia": 1250,
+    "alto_copia": 1600
+  },
+  {
+    "numero": "46",
+    "individuo": "individuo 1012",
+    "ruta_original": "individuo 1012\\img02_ind_cm1012.jpg",
+    "archivo": "046.jpg",
+    "ancho_original": 4608,
+    "alto_original": 3456,
+    "ancho_copia": 1600,
+    "alto_copia": 1200
+  },
+  {
+    "numero": "47",
+    "individuo": "individuo 0388",
+    "ruta_original": "individuo 0388\\img05_ind_cm0388.jpg",
+    "archivo": "047.jpg",
+    "ancho_original": 3000,
+    "alto_original": 4000,
+    "ancho_copia": 1200,
+    "alto_copia": 1600
+  },
+  {
+    "numero": "48",
+    "individuo": "individuo 0878",
+    "ruta_original": "individuo 0878\\img03_ind_cm0878.jpg",
+    "archivo": "048.jpg",
+    "ancho_original": 3000,
+    "alto_original": 4000,
+    "ancho_copia": 1200,
+    "alto_copia": 1600
+  },
+  {
+    "numero": "49",
+    "individuo": "individuo 0408",
+    "ruta_original": "individuo 0408\\img08_ind_cm0408.jpg",
+    "archivo": "049.jpg",
+    "ancho_original": 4000,
+    "alto_original": 3000,
+    "ancho_copia": 1600,
+    "alto_copia": 1200
+  },
+  {
+    "numero": "50",
+    "individuo": "individuo 0807",
+    "ruta_original": "individuo 0807\\img08_ind_cm0807.jpg",
+    "archivo": "050.jpg",
+    "ancho_original": 4000,
+    "alto_original": 3000,
+    "ancho_copia": 1600,
+    "alto_copia": 1200
+  },
+  {
+    "numero": "51",
+    "individuo": "individuo 0553",
+    "ruta_original": "individuo 0553\\img09_ind_cm0553.jpg",
+    "archivo": "051.jpg",
+    "ancho_original": 4000,
+    "alto_original": 3000,
+    "ancho_copia": 1600,
+    "alto_copia": 1200
+  },
+  {
+    "numero": "52",
+    "individuo": "individuo 0689",
+    "ruta_original": "individuo 0689\\img04_ind_cm0689.jpg",
+    "archivo": "052.jpg",
+    "ancho_original": 4608,
+    "alto_original": 3456,
+    "ancho_copia": 1600,
+    "alto_copia": 1200
+  },
+  {
+    "numero": "53",
+    "individuo": "individuo 0081",
+    "ruta_original": "individuo 0081\\img01_ind_cm0081.jpg",
+    "archivo": "053.jpg",
+    "ancho_original": 254,
+    "alto_original": 362,
+    "ancho_copia": 254,
+    "alto_copia": 362
+  },
+  {
+    "numero": "54",
+    "individuo": "individuo 0783",
+    "ruta_original": "individuo 0783\\img03_ind_cm0783.jpg",
+    "archivo": "054.jpg",
+    "ancho_original": 4000,
+    "alto_original": 3000,
+    "ancho_copia": 1600,
+    "alto_copia": 1200
+  },
+  {
+    "numero": "55",
+    "individuo": "individuo 0370",
+    "ruta_original": "individuo 0370\\img01_ind_cm0370.jpg",
+    "archivo": "055.jpg",
+    "ancho_original": 1746,
+    "alto_original": 2587,
+    "ancho_copia": 1080,
+    "alto_copia": 1600
+  },
+  {
+    "numero": "56",
+    "individuo": "individuo 0096",
+    "ruta_original": "individuo 0096\\img03_ind_cm0096.jpg",
+    "archivo": "056.jpg",
+    "ancho_original": 4608,
+    "alto_original": 3456,
+    "ancho_copia": 1600,
+    "alto_copia": 1200
+  },
+  {
+    "numero": "57",
+    "individuo": "individuo 0602",
+    "ruta_original": "individuo 0602\\img11_ind_cm0602.jpg",
+    "archivo": "057.jpg",
+    "ancho_original": 4608,
+    "alto_original": 3456,
+    "ancho_copia": 1600,
+    "alto_copia": 1200
+  },
+  {
+    "numero": "58",
+    "individuo": "individuo 0579",
+    "ruta_original": "individuo 0579\\img04_ind_cm0579.jpg",
+    "archivo": "058.jpg",
+    "ancho_original": 4000,
+    "alto_original": 3000,
+    "ancho_copia": 1600,
+    "alto_copia": 1200
+  },
+  {
+    "numero": "59",
+    "individuo": "individuo 0317",
+    "ruta_original": "individuo 0317\\img15_ind_cm0317.jpg",
+    "archivo": "059.jpg",
+    "ancho_original": 640,
+    "alto_original": 480,
+    "ancho_copia": 640,
+    "alto_copia": 480
+  },
+  {
+    "numero": "60",
+    "individuo": "individuo 0492",
+    "ruta_original": "individuo 0492\\img07_ind_cm0492.jpg",
+    "archivo": "060.jpg",
+    "ancho_original": 640,
+    "alto_original": 480,
+    "ancho_copia": 640,
+    "alto_copia": 480
+  },
+  {
+    "numero": "61",
+    "individuo": "individuo 0152",
+    "ruta_original": "individuo 0152\\img01_ind_cm0152.jpg",
+    "archivo": "061.jpg",
+    "ancho_original": 2016,
+    "alto_original": 2908,
+    "ancho_copia": 1109,
+    "alto_copia": 1600
+  },
+  {
+    "numero": "62",
+    "individuo": "individuo 0955",
+    "ruta_original": "individuo 0955\\img02_ind_cm0955.jpg",
+    "archivo": "062.jpg",
+    "ancho_original": 4224,
+    "alto_original": 5632,
+    "ancho_copia": 1200,
+    "alto_copia": 1600
+  },
+  {
+    "numero": "63",
+    "individuo": "individuo 0697",
+    "ruta_original": "individuo 0697\\img03_ind_cm0697.jpg",
+    "archivo": "063.jpg",
+    "ancho_original": 640,
+    "alto_original": 480,
+    "ancho_copia": 640,
+    "alto_copia": 480
+  },
+  {
+    "numero": "64",
+    "individuo": "individuo 0762",
+    "ruta_original": "individuo 0762\\img04_ind_cm0762.jpg",
+    "archivo": "064.jpg",
+    "ancho_original": 3000,
+    "alto_original": 4000,
+    "ancho_copia": 1200,
+    "alto_copia": 1600
+  },
+  {
+    "numero": "65",
+    "individuo": "individuo 0776",
+    "ruta_original": "individuo 0776\\img02_ind_cm0776.jpg",
+    "archivo": "065.jpg",
+    "ancho_original": 1505,
+    "alto_original": 1901,
+    "ancho_copia": 1267,
+    "alto_copia": 1600
+  },
+  {
+    "numero": "66",
+    "individuo": "individuo 0623",
+    "ruta_original": "individuo 0623\\img04_ind_cm0623.jpg",
+    "archivo": "066.jpg",
+    "ancho_original": 640,
+    "alto_original": 480,
+    "ancho_copia": 640,
+    "alto_copia": 480
+  },
+  {
+    "numero": "67",
+    "individuo": "individuo 0336",
+    "ruta_original": "individuo 0336\\img08_ind_cm0336.jpg",
+    "archivo": "067.jpg",
+    "ancho_original": 4000,
+    "alto_original": 3000,
+    "ancho_copia": 1600,
+    "alto_copia": 1200
+  },
+  {
+    "numero": "68",
+    "individuo": "individuo 0026",
+    "ruta_original": "individuo 0026\\img01_ind_cm0026.jpg",
+    "archivo": "068.jpg",
+    "ancho_original": 1936,
+    "alto_original": 2659,
+    "ancho_copia": 1165,
+    "alto_copia": 1600
+  },
+  {
+    "numero": "69",
+    "individuo": "individuo 0925",
+    "ruta_original": "individuo 0925\\img06_ind_cm0925.jpg",
+    "archivo": "069.jpg",
+    "ancho_original": 4608,
+    "alto_original": 3456,
+    "ancho_copia": 1600,
+    "alto_copia": 1200
+  },
+  {
+    "numero": "70",
+    "individuo": "individuo 0770",
+    "ruta_original": "individuo 0770\\img05_ind_cm0770.jpg",
+    "archivo": "070.jpg",
+    "ancho_original": 4608,
+    "alto_original": 3456,
+    "ancho_copia": 1600,
+    "alto_copia": 1200
+  },
+  {
+    "numero": "71",
+    "individuo": "individuo 0400",
+    "ruta_original": "individuo 0400\\img04_ind_cm0400.jpg",
+    "archivo": "071.jpg",
+    "ancho_original": 4000,
+    "alto_original": 3000,
+    "ancho_copia": 1600,
+    "alto_copia": 1200
+  },
+  {
+    "numero": "72",
+    "individuo": "individuo 0395",
+    "ruta_original": "individuo 0395\\img02_ind_cm0395.jpg",
+    "archivo": "072.jpg",
+    "ancho_original": 480,
+    "alto_original": 640,
+    "ancho_copia": 480,
+    "alto_copia": 640
+  },
+  {
+    "numero": "73",
+    "individuo": "individuo 0496",
+    "ruta_original": "individuo 0496\\img01_ind_cm0496.jpg",
+    "archivo": "073.jpg",
+    "ancho_original": 4608,
+    "alto_original": 3456,
+    "ancho_copia": 1600,
+    "alto_copia": 1200
+  },
+  {
+    "numero": "74",
+    "individuo": "individuo 0455",
+    "ruta_original": "individuo 0455\\img02_ind_cm0455.jpg",
+    "archivo": "074.jpg",
+    "ancho_original": 4000,
+    "alto_original": 3000,
+    "ancho_copia": 1600,
+    "alto_copia": 1200
+  },
+  {
+    "numero": "75",
+    "individuo": "individuo 0097",
+    "ruta_original": "individuo 0097\\img03_ind_cm0097.jpg",
+    "archivo": "075.jpg",
+    "ancho_original": 2903,
+    "alto_original": 3453,
+    "ancho_copia": 1345,
+    "alto_copia": 1600
+  },
+  {
+    "numero": "76",
+    "individuo": "individuo 0431",
+    "ruta_original": "individuo 0431\\img07_ind_cm0431.jpg",
+    "archivo": "076.jpg",
+    "ancho_original": 3000,
+    "alto_original": 4000,
+    "ancho_copia": 1200,
+    "alto_copia": 1600
+  },
+  {
+    "numero": "77",
+    "individuo": "individuo 0631",
+    "ruta_original": "individuo 0631\\img02_ind_cm0631.jpg",
+    "archivo": "077.jpg",
+    "ancho_original": 4608,
+    "alto_original": 3456,
+    "ancho_copia": 1600,
+    "alto_copia": 1200
+  },
+  {
+    "numero": "78",
+    "individuo": "individuo 0597",
+    "ruta_original": "individuo 0597\\img02_ind_cm0597.jpg",
+    "archivo": "078.jpg",
+    "ancho_original": 4000,
+    "alto_original": 3000,
+    "ancho_copia": 1600,
+    "alto_copia": 1200
+  },
+  {
+    "numero": "79",
+    "individuo": "individuo 0537",
+    "ruta_original": "individuo 0537\\img01_ind_cm0537.jpg",
+    "archivo": "079.jpg",
+    "ancho_original": 4608,
+    "alto_original": 3456,
+    "ancho_copia": 1600,
+    "alto_copia": 1200
+  },
+  {
+    "numero": "80",
+    "individuo": "individuo 0946",
+    "ruta_original": "individuo 0946\\img01_ind_cm0946.jpg",
+    "archivo": "080.jpg",
+    "ancho_original": 1669,
+    "alto_original": 2192,
+    "ancho_copia": 1218,
+    "alto_copia": 1600
+  }
+]
